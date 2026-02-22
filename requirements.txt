@@ -1,0 +1,7 @@
+sec-api
+pandas
+numpy
+beautifulsoup4
+lxml
+tqdm
+requests

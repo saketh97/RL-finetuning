@@ -1,0 +1,853 @@
+[
+  {
+    "ticker": "WFC",
+    "formType": "10-Q",
+    "accessionNo": "0000072971-25-000253",
+    "cik": "72971",
+    "companyNameLong": "WELLS FARGO & COMPANY/MN (Filer)",
+    "companyName": "WELLS FARGO & COMPANY/MN",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/wfc-20250930.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/0000072971-25-000253.txt",
+    "filedAt": "2025-10-31T16:23:21-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "10931659",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/72971/000007297125000253/wfc-20250930.htm",
+        "description": "FORM 10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "14291",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/wfc-0930x2025xex10a.htm",
+        "description": "EX-10.A",
+        "type": "EX-10.A"
+      },
+      {
+        "sequence": "3",
+        "size": "10952",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/wfc-0930x2025xex31a.htm",
+        "description": "EX-31.A",
+        "type": "EX-31.A"
+      },
+      {
+        "sequence": "4",
+        "size": "11184",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/wfc-0930x2025xex31b.htm",
+        "description": "EX-31.B",
+        "type": "EX-31.B"
+      },
+      {
+        "sequence": "5",
+        "size": "6873",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/wfc-0930x2025xex32a.htm",
+        "description": "EX-32.A",
+        "type": "EX-32.A"
+      },
+      {
+        "sequence": "6",
+        "size": "6633",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/wfc-0930x2025xex32b.htm",
+        "description": "EX-32.B",
+        "type": "EX-32.B"
+      },
+      {
+        "sequence": "12",
+        "size": "97287",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/wfc-20250930_g1.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "13",
+        "size": "29227",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/wfc-20250930_g2.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "49298420",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/0000072971-25-000253.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-09-30",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "72971",
+        "fileNo": "001-02979",
+        "irsNo": "410449260",
+        "companyName": "WELLS FARGO & COMPANY/MN (Filer)",
+        "type": "10-Q",
+        "sic": "6021 National Commercial Banks",
+        "filmNo": "251440838",
+        "undefined": "02 Finance)"
+      }
+    ],
+    "id": "6f2430306fa2b8ff12f642ffe318f6e7",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/0000072971-25-000253-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "7",
+        "size": "209557",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/wfc-20250930.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "8",
+        "size": "307875",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/wfc-20250930_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "9",
+        "size": "1429353",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/wfc-20250930_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "10",
+        "size": "2110705",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/wfc-20250930_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "11",
+        "size": "1734582",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/wfc-20250930_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "162",
+        "size": "13263993",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/wfc-20250930_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "WFC",
+    "formType": "10-Q",
+    "accessionNo": "0000072971-25-000201",
+    "cik": "72971",
+    "companyNameLong": "WELLS FARGO & COMPANY/MN (Filer)",
+    "companyName": "WELLS FARGO & COMPANY/MN",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/wfc-20250630.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/0000072971-25-000201.txt",
+    "filedAt": "2025-08-05T09:28:49-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "10949766",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/72971/000007297125000201/wfc-20250630.htm",
+        "description": "FORM 10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "1021020",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/wfc-0630x2025xex3a.htm",
+        "description": "EXHIBIT 3.A",
+        "type": "EX-3.A"
+      },
+      {
+        "sequence": "3",
+        "size": "10950",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/wfc-0630x2025xex31a.htm",
+        "description": "EXHIBIT 31.A",
+        "type": "EX-31.A"
+      },
+      {
+        "sequence": "4",
+        "size": "11182",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/wfc-0630x2025xex31b.htm",
+        "description": "EXHIBIT 31.B",
+        "type": "EX-31.B"
+      },
+      {
+        "sequence": "5",
+        "size": "6871",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/wfc-0630x2025xex32a.htm",
+        "description": "EXHIBIT 32.A",
+        "type": "EX-32.A"
+      },
+      {
+        "sequence": "6",
+        "size": "6631",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/wfc-0630x2025xex32b.htm",
+        "description": "EXHIBIT 32.B",
+        "type": "EX-32.B"
+      },
+      {
+        "sequence": "12",
+        "size": "97287",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/wfc-20250630_g1.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "13",
+        "size": "29227",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/wfc-20250630_g2.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "50084365",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/0000072971-25-000201.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-06-30",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "72971",
+        "fileNo": "001-02979",
+        "irsNo": "410449260",
+        "companyName": "WELLS FARGO & COMPANY/MN (Filer)",
+        "type": "10-Q",
+        "sic": "6021 National Commercial Banks",
+        "filmNo": "251183217",
+        "undefined": "02 Finance)"
+      }
+    ],
+    "id": "c9a2fbf1790d42f790573c93c2303bbc",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/0000072971-25-000201-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "7",
+        "size": "215626",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/wfc-20250630.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "8",
+        "size": "308110",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/wfc-20250630_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "9",
+        "size": "1424910",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/wfc-20250630_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "10",
+        "size": "2087797",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/wfc-20250630_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "11",
+        "size": "1722485",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/wfc-20250630_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "163",
+        "size": "13271273",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000201/wfc-20250630_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "WFC",
+    "formType": "10-Q",
+    "accessionNo": "0000072971-25-000129",
+    "cik": "72971",
+    "companyNameLong": "WELLS FARGO & COMPANY/MN (Filer)",
+    "companyName": "WELLS FARGO & COMPANY/MN",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/wfc-20250331.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/0000072971-25-000129.txt",
+    "filedAt": "2025-04-29T16:44:59-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "8859589",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/72971/000007297125000129/wfc-20250331.htm",
+        "description": "FORM 10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "10951",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/wfc-0331x2025xex31a.htm",
+        "description": "EXHIBIT 31.A",
+        "type": "EX-31.A"
+      },
+      {
+        "sequence": "3",
+        "size": "11183",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/wfc-0331x2025xex31b.htm",
+        "description": "EXHIBIT 31.B",
+        "type": "EX-31.B"
+      },
+      {
+        "sequence": "4",
+        "size": "6872",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/wfc-0331x2025xex32a.htm",
+        "description": "EXHIBIT 32.A",
+        "type": "EX-32.A"
+      },
+      {
+        "sequence": "5",
+        "size": "6632",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/wfc-0331x2025xex32b.htm",
+        "description": "EXHIBIT 32.B",
+        "type": "EX-32.B"
+      },
+      {
+        "sequence": "11",
+        "size": "92063",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/wfc-20250331_g1.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "12",
+        "size": "28678",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/wfc-20250331_g2.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "43051549",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/0000072971-25-000129.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-03-31",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "72971",
+        "fileNo": "001-02979",
+        "companyName": "WELLS FARGO & COMPANY/MN (Filer)",
+        "type": "10-Q",
+        "sic": "6021 National Commercial Banks",
+        "filmNo": "25888609",
+        "undefined": "02 Finance)"
+      }
+    ],
+    "id": "4b572e85970833f846170d6fc42d75ab",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/0000072971-25-000129-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "6",
+        "size": "215225",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/wfc-20250331.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "7",
+        "size": "311819",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/wfc-20250331_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "8",
+        "size": "1422253",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/wfc-20250331_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "9",
+        "size": "2084733",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/wfc-20250331_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "10",
+        "size": "1720249",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/wfc-20250331_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "163",
+        "size": "10953704",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000129/wfc-20250331_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "WFC",
+    "formType": "10-K",
+    "accessionNo": "0000072971-25-000066",
+    "cik": "72971",
+    "companyNameLong": "WELLS FARGO & COMPANY/MN (Filer)",
+    "companyName": "WELLS FARGO & COMPANY/MN",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-20241231.htm",
+    "description": "Form 10-K - Annual report [Section 13 and 15(d), not S-K Item 405]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/0000072971-25-000066.txt",
+    "filedAt": "2025-02-25T16:36:31-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1552078",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/72971/000007297125000066/wfc-20241231.htm",
+        "description": "FORM 10-K",
+        "type": "10-K"
+      },
+      {
+        "sequence": "2",
+        "size": "301399",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex4c.htm",
+        "description": "EX-4.C",
+        "type": "EX-4.C"
+      },
+      {
+        "sequence": "3",
+        "size": "385480",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex10a.htm",
+        "description": "EX-10.A",
+        "type": "EX-10.A"
+      },
+      {
+        "sequence": "4",
+        "size": "353374",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex10b.htm",
+        "description": "EX-10.B",
+        "type": "EX-10.B"
+      },
+      {
+        "sequence": "5",
+        "size": "14815",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex10k.htm",
+        "description": "EX-10.K",
+        "type": "EX-10.K"
+      },
+      {
+        "sequence": "6",
+        "size": "5556",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex10l.htm",
+        "description": "EX-10.L",
+        "type": "EX-10.L"
+      },
+      {
+        "sequence": "7",
+        "size": "10903343",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/72971/000007297125000066/wfc-20241231_d2.htm",
+        "description": "EX-13",
+        "type": "EX-13"
+      },
+      {
+        "sequence": "8",
+        "size": "5368",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex19a.htm",
+        "description": "EX-19.A",
+        "type": "EX-19.A"
+      },
+      {
+        "sequence": "9",
+        "size": "41560",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex19b.htm",
+        "description": "EX-19.B",
+        "type": "EX-19.B"
+      },
+      {
+        "sequence": "10",
+        "size": "16580",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex19c.htm",
+        "description": "EX-19.C",
+        "type": "EX-19.C"
+      },
+      {
+        "sequence": "11",
+        "size": "10902",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex21.htm",
+        "description": "EX-21",
+        "type": "EX-21"
+      },
+      {
+        "sequence": "12",
+        "size": "1672",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex22.htm",
+        "description": "EX-22",
+        "type": "EX-22"
+      },
+      {
+        "sequence": "13",
+        "size": "17986",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex23.htm",
+        "description": "EX-23",
+        "type": "EX-23"
+      },
+      {
+        "sequence": "14",
+        "size": "7199",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex24.htm",
+        "description": "EX-24",
+        "type": "EX-24"
+      },
+      {
+        "sequence": "15",
+        "size": "10950",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex31a.htm",
+        "description": "EX-31.A",
+        "type": "EX-31.A"
+      },
+      {
+        "sequence": "16",
+        "size": "11182",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex31b.htm",
+        "description": "EX-31.B",
+        "type": "EX-31.B"
+      },
+      {
+        "sequence": "17",
+        "size": "6871",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex32a.htm",
+        "description": "EX-32.A",
+        "type": "EX-32.A"
+      },
+      {
+        "sequence": "18",
+        "size": "6631",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex32b.htm",
+        "description": "EX-32.B",
+        "type": "EX-32.B"
+      },
+      {
+        "sequence": "24",
+        "size": "7200",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/image_0.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "25",
+        "size": "9503",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/kpmgsignature.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "26",
+        "size": "77907",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex19a001.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "27",
+        "size": "27359",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex19a002.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "28",
+        "size": "60652",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex19a003.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "29",
+        "size": "27649",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex19a004.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "30",
+        "size": "153317",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex19a005.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "31",
+        "size": "27066",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-1231x2024xex19a006.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "32",
+        "size": "92063",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-20241231_g1.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "33",
+        "size": "28678",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-20241231_g2.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "34",
+        "size": "9503",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-20241231_g3.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "35",
+        "size": "10144",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wflogoa.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "59526320",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/0000072971-25-000066.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2024-12-31",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "72971",
+        "fileNo": "001-02979",
+        "irsNo": "410449260",
+        "companyName": "WELLS FARGO & COMPANY/MN (Filer)",
+        "type": "10-K",
+        "sic": "6021 National Commercial Banks",
+        "filmNo": "25664055",
+        "undefined": "02 Finance)"
+      }
+    ],
+    "id": "7bb4cc0caa3155c35d882f67d76e9929",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/0000072971-25-000066-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "19",
+        "size": "268558",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-20241231.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "20",
+        "size": "392454",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-20241231_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "21",
+        "size": "1867923",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-20241231_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "22",
+        "size": "2678705",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-20241231_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "23",
+        "size": "2243621",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-20241231_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "231",
+        "size": "14569860",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-20241231_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "WFC",
+    "formType": "10-Q",
+    "accessionNo": "0000072971-24-000243",
+    "cik": "72971",
+    "companyNameLong": "WELLS FARGO & COMPANY/MN (Filer)",
+    "companyName": "WELLS FARGO & COMPANY/MN",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/wfc-20240930.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/0000072971-24-000243.txt",
+    "filedAt": "2024-10-31T16:32:36-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "11601050",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/72971/000007297124000243/wfc-20240930.htm",
+        "description": "FORM 10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "10952",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/wfc-0930x2024xex31a.htm",
+        "description": "EX-31.A",
+        "type": "EX-31.A"
+      },
+      {
+        "sequence": "3",
+        "size": "11184",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/wfc-0930x2024xex31b.htm",
+        "description": "EX-31.B",
+        "type": "EX-31.B"
+      },
+      {
+        "sequence": "4",
+        "size": "6873",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/wfc-0930x2024xex32a.htm",
+        "description": "EX-32.A",
+        "type": "EX-32.A"
+      },
+      {
+        "sequence": "5",
+        "size": "6633",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/wfc-0930x2024xex32b.htm",
+        "description": "EX-32.B",
+        "type": "EX-32.B"
+      },
+      {
+        "sequence": "11",
+        "size": "50795",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/wfc-20240930_g1.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "12",
+        "size": "47126",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/wfc-20240930_g2.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "13",
+        "size": "28830",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/wfc-20240930_g3.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "50978929",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/0000072971-24-000243.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2024-09-30",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "72971",
+        "fileNo": "001-02979",
+        "irsNo": "410449260",
+        "companyName": "WELLS FARGO & COMPANY/MN (Filer)",
+        "type": "10-Q",
+        "sic": "6021 National Commercial Banks",
+        "filmNo": "241415728",
+        "undefined": "02 Finance)"
+      }
+    ],
+    "id": "c69fcc9cb3064c8ffcf20f8fac4d554e",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/0000072971-24-000243-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "6",
+        "size": "216742",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/wfc-20240930.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "7",
+        "size": "327037",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/wfc-20240930_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "8",
+        "size": "1476900",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/wfc-20240930_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "9",
+        "size": "2111514",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/wfc-20240930_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "10",
+        "size": "1767383",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/wfc-20240930_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "163",
+        "size": "13564286",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000243/wfc-20240930_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  }
+]

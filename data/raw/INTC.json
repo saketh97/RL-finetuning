@@ -1,0 +1,1154 @@
+[
+  {
+    "ticker": "INTC",
+    "formType": "10-K",
+    "accessionNo": "0000050863-26-000011",
+    "cik": "50863",
+    "companyNameLong": "INTEL CORP (Filer)",
+    "companyName": "INTEL CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+    "description": "Form 10-K - Annual report [Section 13 and 15(d), not S-K Item 405]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/0000050863-26-000011.txt",
+    "filedAt": "2026-01-22T18:43:06-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "3320720",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+        "description": "10-K",
+        "type": "10-K"
+      },
+      {
+        "sequence": "2",
+        "size": "41653",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/a12272025ex1017.htm",
+        "description": "EX-10.17",
+        "type": "EX-10.17"
+      },
+      {
+        "sequence": "3",
+        "size": "159343",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/a12272025ex191.htm",
+        "description": "EX-19.1",
+        "type": "EX-19.1"
+      },
+      {
+        "sequence": "4",
+        "size": "21259",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/a12272025-ex211.htm",
+        "description": "EX-21.1",
+        "type": "EX-21.1"
+      },
+      {
+        "sequence": "5",
+        "size": "4732",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/a12272025-ex231.htm",
+        "description": "EX-23.1",
+        "type": "EX-23.1"
+      },
+      {
+        "sequence": "6",
+        "size": "12034",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/a12272025-ex311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "7",
+        "size": "11960",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/a12272025-ex312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "8",
+        "size": "8814",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/a12272025-ex321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "14",
+        "size": "17109",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/image.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "15",
+        "size": "22883",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/image_0.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "16",
+        "size": "11667",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/image_1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "17",
+        "size": "13722",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/image_2.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "18",
+        "size": "7807",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/image_3.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "19",
+        "size": "24669",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "20",
+        "size": "22447",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_g10.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "21",
+        "size": "21399",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_g11.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "22",
+        "size": "20111",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_g12.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "23",
+        "size": "20266",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_g13.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "24",
+        "size": "98575",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_g14.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "25",
+        "size": "598232",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_g2.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "26",
+        "size": "41654",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_g3.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "27",
+        "size": "39273",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_g4.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "28",
+        "size": "37719",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_g5.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "29",
+        "size": "34281",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_g6.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "30",
+        "size": "25915",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_g7.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "31",
+        "size": "69361",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_g8.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "32",
+        "size": "42537",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_g9.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "21033894",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/0000050863-26-000011.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-12-27",
+    "entities": [
+      {
+        "fiscalYearEnd": "1227",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "50863",
+        "fileNo": "000-06217",
+        "irsNo": "941672743",
+        "companyName": "INTEL CORP (Filer)",
+        "type": "10-K",
+        "sic": "3674 Semiconductors &amp; Related Devices",
+        "filmNo": "26552858",
+        "undefined": "04 Manufacturing)"
+      }
+    ],
+    "id": "327338d4b8d414aa16928fa78f867c33",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/0000050863-26-000011-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "9",
+        "size": "105926",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "10",
+        "size": "171759",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "11",
+        "size": "719854",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "12",
+        "size": "1447549",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "13",
+        "size": "1048065",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "147",
+        "size": "3109010",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "INTC",
+    "formType": "10-Q",
+    "accessionNo": "0000050863-25-000179",
+    "cik": "50863",
+    "companyNameLong": "INTEL CORP (Filer)",
+    "companyName": "INTEL CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/0000050863-25-000179.txt",
+    "filedAt": "2025-11-06T09:06:25-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1899617",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/50863/000005086325000179/intc-20250927.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "884857",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/a09272025ex104.htm",
+        "description": "EX-10.4",
+        "type": "EX-10.4"
+      },
+      {
+        "sequence": "3",
+        "size": "570020",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/a09272025ex105.htm",
+        "description": "EX-10.5",
+        "type": "EX-10.5"
+      },
+      {
+        "sequence": "4",
+        "size": "10752",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/a09272025ex311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "5",
+        "size": "10993",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/a09272025ex312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "6",
+        "size": "7634",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/a09272025ex321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "12",
+        "size": "24502",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "13",
+        "size": "13795",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927_g10.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "14",
+        "size": "55162",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927_g2.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "15",
+        "size": "19851",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927_g3.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "16",
+        "size": "26522",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927_g4.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "17",
+        "size": "17506",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927_g5.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "18",
+        "size": "21402",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927_g6.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "19",
+        "size": "12431",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927_g7.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "20",
+        "size": "15059",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927_g8.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "21",
+        "size": "12843",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927_g9.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "12486444",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/0000050863-25-000179.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-09-27",
+    "entities": [
+      {
+        "fiscalYearEnd": "1227",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "50863",
+        "fileNo": "000-06217",
+        "irsNo": "941672743",
+        "companyName": "INTEL CORP (Filer)",
+        "type": "10-Q",
+        "sic": "3674 Semiconductors &amp; Related Devices",
+        "filmNo": "251456485",
+        "undefined": "04 Manufacturing)"
+      }
+    ],
+    "id": "98c9893c7aa5bce890dbaf6b6b262777",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/0000050863-25-000179-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "7",
+        "size": "58400",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "8",
+        "size": "111533",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "9",
+        "size": "358986",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "10",
+        "size": "809380",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "11",
+        "size": "579866",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "97",
+        "size": "1704984",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "INTC",
+    "formType": "10-Q",
+    "accessionNo": "0000050863-25-000109",
+    "cik": "50863",
+    "companyNameLong": "INTEL CORP (Filer)",
+    "companyName": "INTEL CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/0000050863-25-000109.txt",
+    "filedAt": "2025-07-24T16:08:10-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1756134",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/50863/000005086325000109/intc-20250628.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "1236531",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/a06282025ex101.htm",
+        "description": "EX-10.1",
+        "type": "EX-10.1"
+      },
+      {
+        "sequence": "3",
+        "size": "843221",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/a06282025ex102.htm",
+        "description": "EX-10.2",
+        "type": "EX-10.2"
+      },
+      {
+        "sequence": "4",
+        "size": "93593",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/a06282025ex103.htm",
+        "description": "EX-10.3",
+        "type": "EX-10.3"
+      },
+      {
+        "sequence": "5",
+        "size": "10749",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/a06282025ex311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "6",
+        "size": "10990",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/a06282025ex312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "7",
+        "size": "7492",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/a06282025ex321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "13",
+        "size": "24502",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "14",
+        "size": "13649",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628_g10.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "15",
+        "size": "55162",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628_g2.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "16",
+        "size": "24052",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628_g3.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "17",
+        "size": "26507",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628_g4.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "18",
+        "size": "15789",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628_g5.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "19",
+        "size": "20056",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628_g6.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "20",
+        "size": "12319",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628_g7.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "21",
+        "size": "15166",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628_g8.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "22",
+        "size": "13244",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628_g9.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "12348105",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/0000050863-25-000109.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-06-28",
+    "entities": [
+      {
+        "fiscalYearEnd": "1227",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "50863",
+        "fileNo": "000-06217",
+        "irsNo": "941672743",
+        "companyName": "INTEL CORP (Filer)",
+        "type": "10-Q",
+        "sic": "3674 Semiconductors &amp; Related Devices",
+        "filmNo": "251146966",
+        "undefined": "04 Manufacturing)"
+      }
+    ],
+    "id": "96a76268a26234ee6fa623f6835cf126",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/0000050863-25-000109-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "8",
+        "size": "48819",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "9",
+        "size": "106244",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "10",
+        "size": "294788",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "11",
+        "size": "742580",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "12",
+        "size": "512970",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "95",
+        "size": "1544153",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000109/intc-20250628_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "INTC",
+    "formType": "10-Q",
+    "accessionNo": "0000050863-25-000074",
+    "cik": "50863",
+    "companyNameLong": "INTEL CORP (Filer)",
+    "companyName": "INTEL CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/0000050863-25-000074.txt",
+    "filedAt": "2025-04-24T18:39:04-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1404483",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/50863/000005086325000074/intc-20250329.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "171214",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/a03292025ex101.htm",
+        "description": "EX-10.1",
+        "type": "EX-10.1"
+      },
+      {
+        "sequence": "3",
+        "size": "166579",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/a03292025ex102.htm",
+        "description": "EX-10.2",
+        "type": "EX-10.2"
+      },
+      {
+        "sequence": "4",
+        "size": "82704",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/a03292025ex103.htm",
+        "description": "EX-10.3",
+        "type": "EX-10.3"
+      },
+      {
+        "sequence": "5",
+        "size": "74184",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/a03292025ex104.htm",
+        "description": "EX-10.4",
+        "type": "EX-10.4"
+      },
+      {
+        "sequence": "6",
+        "size": "85726",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/a03292025ex105.htm",
+        "description": "EX-10.5",
+        "type": "EX-10.5"
+      },
+      {
+        "sequence": "7",
+        "size": "88209",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/a03292025ex106.htm",
+        "description": "EX-10.6",
+        "type": "EX-10.6"
+      },
+      {
+        "sequence": "8",
+        "size": "24872",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/a03292025ex107.htm",
+        "description": "EX-10.7",
+        "type": "EX-10.7"
+      },
+      {
+        "sequence": "9",
+        "size": "10750",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/a03292025ex311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "10",
+        "size": "10992",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/a03292025ex312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "11",
+        "size": "7496",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/a03292025ex321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "17",
+        "size": "17593",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/image_0a.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "18",
+        "size": "24502",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329_g1.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "19",
+        "size": "55162",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329_g2.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "20",
+        "size": "28177",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329_g3.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "21",
+        "size": "19420",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329_g4.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "22",
+        "size": "19962",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329_g5.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "23",
+        "size": "17415",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329_g6.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "9408826",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/0000050863-25-000074.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-03-29",
+    "entities": [
+      {
+        "fiscalYearEnd": "1227",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "50863",
+        "fileNo": "000-06217",
+        "companyName": "INTEL CORP (Filer)",
+        "type": "10-Q",
+        "sic": "3674 Semiconductors &amp; Related Devices",
+        "filmNo": "25869271",
+        "undefined": "04 Manufacturing)"
+      }
+    ],
+    "id": "30c7386d4609819d7682819643c29754",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/0000050863-25-000074-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "12",
+        "size": "47684",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "13",
+        "size": "94857",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "14",
+        "size": "267588",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "15",
+        "size": "721494",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "16",
+        "size": "487612",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "95",
+        "size": "1294385",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000074/intc-20250329_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "INTC",
+    "formType": "10-K",
+    "accessionNo": "0000050863-25-000009",
+    "cik": "50863",
+    "companyNameLong": "INTEL CORP (Filer)",
+    "companyName": "INTEL CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228.htm",
+    "description": "Form 10-K - Annual report [Section 13 and 15(d), not S-K Item 405]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/0000050863-25-000009.txt",
+    "filedAt": "2025-01-31T17:13:51-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "3334219",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/50863/000005086325000009/intc-20241228.htm",
+        "description": "10-K",
+        "type": "10-K"
+      },
+      {
+        "sequence": "2",
+        "size": "1063069",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/a12282024ex22.htm",
+        "description": "EX-2.2",
+        "type": "EX-2.2"
+      },
+      {
+        "sequence": "3",
+        "size": "79368",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/a12282024-ex106.htm",
+        "description": "EX-10.6",
+        "type": "EX-10.6"
+      },
+      {
+        "sequence": "4",
+        "size": "46317",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/a12282024-ex1020.htm",
+        "description": "EX-10.20",
+        "type": "EX-10.20"
+      },
+      {
+        "sequence": "5",
+        "size": "151107",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/a12282024-ex191.htm",
+        "description": "EX-19.1",
+        "type": "EX-19.1"
+      },
+      {
+        "sequence": "6",
+        "size": "4826",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/a12282024-ex192.htm",
+        "description": "EX-19.2",
+        "type": "EX-19.2"
+      },
+      {
+        "sequence": "7",
+        "size": "19219",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/a12282024-ex211.htm",
+        "description": "EX-21.1",
+        "type": "EX-21.1"
+      },
+      {
+        "sequence": "8",
+        "size": "4685",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/a12282024-ex231.htm",
+        "description": "EX-23.1",
+        "type": "EX-23.1"
+      },
+      {
+        "sequence": "9",
+        "size": "24012",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/a12282024-ex311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "10",
+        "size": "12031",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/a12282024-ex312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "11",
+        "size": "9871",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/a12282024-ex321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "17",
+        "size": "139",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/image_0a.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "18",
+        "size": "523",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/image_0b.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "19",
+        "size": "24669",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "20",
+        "size": "29933",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g10.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "21",
+        "size": "23226",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g11.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "22",
+        "size": "21784",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g12.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "23",
+        "size": "77103",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g13.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "24",
+        "size": "68401",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g14.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "25",
+        "size": "67578",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g15.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "26",
+        "size": "65455",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g16.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "27",
+        "size": "86535",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g17.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "28",
+        "size": "45902",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g18.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "29",
+        "size": "22743",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g19.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "30",
+        "size": "598232",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g2.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "31",
+        "size": "21674",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g20.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "32",
+        "size": "20789",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g21.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "33",
+        "size": "105056",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g22.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "34",
+        "size": "79830",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g3.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "35",
+        "size": "94119",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g4.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "36",
+        "size": "74584",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g5.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "37",
+        "size": "80728",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g6.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "38",
+        "size": "76019",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g7.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "39",
+        "size": "109838",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g8.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "40",
+        "size": "67794",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_g9.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "23327989",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/0000050863-25-000009.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2024-12-28",
+    "entities": [
+      {
+        "fiscalYearEnd": "1227",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "50863",
+        "fileNo": "000-06217",
+        "irsNo": "941672743",
+        "companyName": "INTEL CORP (Filer)",
+        "type": "10-K",
+        "sic": "3674 Semiconductors &amp; Related Devices",
+        "filmNo": "25579411",
+        "undefined": "04 Manufacturing)"
+      }
+    ],
+    "id": "6174ab3a81da033495a981d5e05c0c38",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/0000050863-25-000009-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "12",
+        "size": "89008",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "13",
+        "size": "160049",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "14",
+        "size": "607549",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "15",
+        "size": "1363688",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "16",
+        "size": "936788",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "147",
+        "size": "3263439",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  }
+]

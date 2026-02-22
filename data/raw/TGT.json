@@ -1,0 +1,925 @@
+[
+  {
+    "ticker": "TGT",
+    "formType": "10-Q",
+    "accessionNo": "0000027419-25-000126",
+    "cik": "27419",
+    "companyNameLong": "TARGET CORP (Filer)",
+    "companyName": "TARGET CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/0000027419-25-000126.txt",
+    "filedAt": "2025-11-26T12:34:55-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1154612",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/27419/000002741925000126/tgt-20251101.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "616493",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101xexhibit1020.htm",
+        "description": "EX-10.20",
+        "type": "EX-10.20"
+      },
+      {
+        "sequence": "3",
+        "size": "10286",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101xexhibit311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "4",
+        "size": "10265",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101xexhibit312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "5",
+        "size": "5017",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101xexhibit321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "6",
+        "size": "4897",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101xexhibit322.htm",
+        "description": "EX-32.2",
+        "type": "EX-32.2"
+      },
+      {
+        "sequence": "12",
+        "size": "17472",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "13",
+        "size": "9937",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101_g2.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "14",
+        "size": "42271",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101_g3.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "15",
+        "size": "42495",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101_g4.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "5916069",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/0000027419-25-000126.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-11-01",
+    "entities": [
+      {
+        "fiscalYearEnd": "0201",
+        "stateOfIncorporation": "MN",
+        "act": "34",
+        "cik": "27419",
+        "fileNo": "001-06049",
+        "irsNo": "410215170",
+        "companyName": "TARGET CORP (Filer)",
+        "type": "10-Q",
+        "sic": "5331 Retail-Variety Stores",
+        "filmNo": "251527284",
+        "undefined": "07 Trade &amp; Services)"
+      }
+    ],
+    "id": "9536fcc2c323baf1d98cd4d3c5185910",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/0000027419-25-000126-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "7",
+        "size": "30375",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "8",
+        "size": "41672",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "9",
+        "size": "101730",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "10",
+        "size": "422756",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "11",
+        "size": "284867",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "76",
+        "size": "611768",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000126/tgt-20251101_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "TGT",
+    "formType": "10-Q",
+    "accessionNo": "0000027419-25-000118",
+    "cik": "27419",
+    "companyNameLong": "TARGET CORP (Filer)",
+    "companyName": "TARGET CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/0000027419-25-000118.txt",
+    "filedAt": "2025-08-29T11:12:12-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1091380",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/27419/000002741925000118/tgt-20250802.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "62841",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802xexhibit1023.htm",
+        "description": "EX-10.23",
+        "type": "EX-10.23"
+      },
+      {
+        "sequence": "3",
+        "size": "56756",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802xexhibit1024.htm",
+        "description": "EX-10.24",
+        "type": "EX-10.24"
+      },
+      {
+        "sequence": "4",
+        "size": "10284",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802xexhibit311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "5",
+        "size": "10263",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802xexhibit312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "6",
+        "size": "5013",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802xexhibit321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "7",
+        "size": "4893",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802xexhibit322.htm",
+        "description": "EX-32.2",
+        "type": "EX-32.2"
+      },
+      {
+        "sequence": "13",
+        "size": "17472",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "14",
+        "size": "9937",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802_g2.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "15",
+        "size": "39660",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802_g3.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "16",
+        "size": "45284",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802_g4.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "5172647",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/0000027419-25-000118.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-08-02",
+    "entities": [
+      {
+        "fiscalYearEnd": "0201",
+        "stateOfIncorporation": "MN",
+        "act": "34",
+        "cik": "27419",
+        "fileNo": "001-06049",
+        "irsNo": "410215170",
+        "companyName": "TARGET CORP (Filer)",
+        "type": "10-Q",
+        "sic": "5331 Retail-Variety Stores",
+        "filmNo": "251277686",
+        "undefined": "07 Trade &amp; Services)"
+      }
+    ],
+    "id": "573d9591b9d65267d4f58c0b5b438796",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/0000027419-25-000118-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "8",
+        "size": "29254",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "9",
+        "size": "41067",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "10",
+        "size": "96919",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "11",
+        "size": "411159",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "12",
+        "size": "276449",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "75",
+        "size": "591641",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000118/tgt-20250802_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "TGT",
+    "formType": "10-Q",
+    "accessionNo": "0000027419-25-000101",
+    "cik": "27419",
+    "companyNameLong": "TARGET CORP (Filer)",
+    "companyName": "TARGET CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/tgt-20250503.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/0000027419-25-000101.txt",
+    "filedAt": "2025-05-30T14:14:08-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "905500",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/27419/000002741925000101/tgt-20250503.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "10281",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/tgt-20250503xexhibit311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "3",
+        "size": "10260",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/tgt-20250503xexhibit312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "4",
+        "size": "5007",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/tgt-20250503xexhibit321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "5",
+        "size": "4887",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/tgt-20250503xexhibit322.htm",
+        "description": "EX-32.2",
+        "type": "EX-32.2"
+      },
+      {
+        "sequence": "11",
+        "size": "17472",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/tgt-20250503_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "12",
+        "size": "9937",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/tgt-20250503_g2.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "13",
+        "size": "43424",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/tgt-20250503_g3.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "4251168",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/0000027419-25-000101.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-05-03",
+    "entities": [
+      {
+        "fiscalYearEnd": "0201",
+        "stateOfIncorporation": "MN",
+        "act": "34",
+        "cik": "27419",
+        "fileNo": "001-06049",
+        "irsNo": "410215170",
+        "companyName": "TARGET CORP (Filer)",
+        "type": "10-Q",
+        "sic": "5331 Retail-Variety Stores",
+        "filmNo": "251009771",
+        "undefined": "07 Trade &amp; Services)"
+      }
+    ],
+    "id": "bbbdb395379d13b153c9528839f09221",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/0000027419-25-000101-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "6",
+        "size": "26538",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/tgt-20250503.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "7",
+        "size": "40430",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/tgt-20250503_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "8",
+        "size": "89282",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/tgt-20250503_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "9",
+        "size": "402510",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/tgt-20250503_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "10",
+        "size": "264464",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/tgt-20250503_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "68",
+        "size": "438693",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000101/tgt-20250503_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "TGT",
+    "formType": "10-K",
+    "accessionNo": "0000027419-25-000018",
+    "cik": "27419",
+    "companyNameLong": "TARGET CORP (Filer)",
+    "companyName": "TARGET CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201.htm",
+    "description": "Form 10-K - Annual report [Section 13 and 15(d), not S-K Item 405]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/0000027419-25-000018.txt",
+    "filedAt": "2025-03-12T16:36:03-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "2023702",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/27419/000002741925000018/tgt-20250201.htm",
+        "description": "10-K",
+        "type": "10-K"
+      },
+      {
+        "sequence": "2",
+        "size": "52430",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit1045.htm",
+        "description": "EX-10.4 5",
+        "type": "EX-10.4 5"
+      },
+      {
+        "sequence": "3",
+        "size": "51385",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit1046.htm",
+        "description": "EX-10.4 6",
+        "type": "EX-10.4 6"
+      },
+      {
+        "sequence": "4",
+        "size": "323200",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit109.htm",
+        "description": "EX-10.9",
+        "type": "EX-10.9"
+      },
+      {
+        "sequence": "5",
+        "size": "790891",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit1021.htm",
+        "description": "EX-10.21",
+        "type": "EX-10.21"
+      },
+      {
+        "sequence": "6",
+        "size": "23981",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit10211.htm",
+        "description": "EX-10.21 1",
+        "type": "EX-10.21 1"
+      },
+      {
+        "sequence": "7",
+        "size": "87809",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit10212.htm",
+        "description": "EX-10.21 2",
+        "type": "EX-10.21 2"
+      },
+      {
+        "sequence": "8",
+        "size": "364424",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit1022.htm",
+        "description": "EX-10.22",
+        "type": "EX-10.22"
+      },
+      {
+        "sequence": "9",
+        "size": "11567",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit10221.htm",
+        "description": "EX-10.22 1",
+        "type": "EX-10.22 1"
+      },
+      {
+        "sequence": "10",
+        "size": "52164",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit191.htm",
+        "description": "EX-19.1",
+        "type": "EX-19.1"
+      },
+      {
+        "sequence": "11",
+        "size": "2467",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit211.htm",
+        "description": "EX-21.1",
+        "type": "EX-21.1"
+      },
+      {
+        "sequence": "12",
+        "size": "9400",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit231.htm",
+        "description": "EX-23.1",
+        "type": "EX-23.1"
+      },
+      {
+        "sequence": "13",
+        "size": "62106",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit241.htm",
+        "description": "EX-24.1",
+        "type": "EX-24.1"
+      },
+      {
+        "sequence": "14",
+        "size": "10280",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "15",
+        "size": "10259",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "16",
+        "size": "5008",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "17",
+        "size": "4888",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201xexhibit322.htm",
+        "description": "EX-32.2",
+        "type": "EX-32.2"
+      },
+      {
+        "sequence": "23",
+        "size": "4034",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/image_0.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "24",
+        "size": "17472",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "25",
+        "size": "17246",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g10.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "26",
+        "size": "9491",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g11.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "27",
+        "size": "25021",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g12.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "28",
+        "size": "24424",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g13.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "29",
+        "size": "25264",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g14.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "30",
+        "size": "9163",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g15.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "31",
+        "size": "140338",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g16.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "32",
+        "size": "38031",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g17.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "33",
+        "size": "64150",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g18.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "34",
+        "size": "9937",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g2.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "35",
+        "size": "19899",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g3.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "36",
+        "size": "19798",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g4.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "37",
+        "size": "20217",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g5.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "38",
+        "size": "3369",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g6.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "39",
+        "size": "64366",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g7.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "40",
+        "size": "17567",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g8.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "41",
+        "size": "17365",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_g9.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "14048475",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/0000027419-25-000018.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-02-01",
+    "entities": [
+      {
+        "fiscalYearEnd": "0201",
+        "stateOfIncorporation": "MN",
+        "act": "34",
+        "cik": "27419",
+        "fileNo": "001-06049",
+        "irsNo": "410215170",
+        "companyName": "TARGET CORP (Filer)",
+        "type": "10-K",
+        "sic": "5331 Retail-Variety Stores",
+        "filmNo": "25732232",
+        "undefined": "07 Trade &amp; Services)"
+      }
+    ],
+    "id": "8f1d2101dc6610260f15b33b614b16ba",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/0000027419-25-000018-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "18",
+        "size": "81361",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "19",
+        "size": "119194",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "20",
+        "size": "260276",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "21",
+        "size": "926779",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "22",
+        "size": "616904",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "164",
+        "size": "1570035",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "TGT",
+    "formType": "10-Q",
+    "accessionNo": "0000027419-24-000179",
+    "cik": "27419",
+    "companyNameLong": "TARGET CORP (Filer)",
+    "companyName": "TARGET CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/0000027419-24-000179.txt",
+    "filedAt": "2024-11-27T14:16:36-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1039804",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/27419/000002741924000179/tgt-20241102.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "626416",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102xexhibit1020.htm",
+        "description": "EX-10.20",
+        "type": "EX-10.20"
+      },
+      {
+        "sequence": "3",
+        "size": "49930",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102xexhibit1023.htm",
+        "description": "EX-10.23",
+        "type": "EX-10.23"
+      },
+      {
+        "sequence": "4",
+        "size": "10286",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102xexhibit311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "5",
+        "size": "10265",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102xexhibit312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "6",
+        "size": "5017",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102xexhibit321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "7",
+        "size": "4897",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102xexhibit322.htm",
+        "description": "EX-32.2",
+        "type": "EX-32.2"
+      },
+      {
+        "sequence": "13",
+        "size": "17472",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "14",
+        "size": "9937",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102_g2.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "15",
+        "size": "41172",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102_g3.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "16",
+        "size": "41765",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102_g4.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "5299945",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/0000027419-24-000179.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2024-11-02",
+    "entities": [
+      {
+        "fiscalYearEnd": "0201",
+        "stateOfIncorporation": "MN",
+        "act": "34",
+        "cik": "27419",
+        "fileNo": "001-06049",
+        "irsNo": "410215170",
+        "companyName": "TARGET CORP (Filer)",
+        "type": "10-Q",
+        "sic": "5331 Retail-Variety Stores",
+        "filmNo": "241509884",
+        "undefined": "07 Trade &amp; Services)"
+      }
+    ],
+    "id": "2f622d0626008f0debd5b96a0a0c71bb",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/0000027419-24-000179-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "8",
+        "size": "24320",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "9",
+        "size": "46468",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "10",
+        "size": "83914",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "11",
+        "size": "401310",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "12",
+        "size": "252787",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "67",
+        "size": "484169",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000179/tgt-20241102_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  }
+]

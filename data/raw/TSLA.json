@@ -1,0 +1,585 @@
+[
+  {
+    "ticker": "TSLA",
+    "formType": "10-K",
+    "accessionNo": "0001628280-26-003952",
+    "cik": "1318605",
+    "companyNameLong": "Tesla, Inc. (Filer)",
+    "companyName": "Tesla, Inc.",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm",
+    "description": "Form 10-K - Annual report [Section 13 and 15(d), not S-K Item 405]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/0001628280-26-003952.txt",
+    "filedAt": "2026-01-28T20:55:03-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "2391529",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm",
+        "description": "10-K",
+        "type": "10-K"
+      },
+      {
+        "sequence": "2",
+        "size": "18265",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-2025x12x31xex417.htm",
+        "description": "EX-4.17",
+        "type": "EX-4.17"
+      },
+      {
+        "sequence": "3",
+        "size": "58349",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-2025x12x31xex109.htm",
+        "description": "EX-10.9",
+        "type": "EX-10.9"
+      },
+      {
+        "sequence": "4",
+        "size": "47882",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-2025x12x31xex1010.htm",
+        "description": "EX-10.10",
+        "type": "EX-10.10"
+      },
+      {
+        "sequence": "5",
+        "size": "222049",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-2025x12x31xex211.htm",
+        "description": "EX-21.1",
+        "type": "EX-21.1"
+      },
+      {
+        "sequence": "6",
+        "size": "2093",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-2025x12x31xex231.htm",
+        "description": "EX-23.1",
+        "type": "EX-23.1"
+      },
+      {
+        "sequence": "7",
+        "size": "10918",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-2025x12x31xex311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "8",
+        "size": "11127",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-2025x12x31xex312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "9",
+        "size": "8286",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-2025x12x31xex321.htm",
+        "description": "EX-32",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "15",
+        "size": "194134",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "15755490",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/0001628280-26-003952.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-12-31",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "TX",
+        "act": "34",
+        "cik": "1318605",
+        "fileNo": "001-34756",
+        "irsNo": "912197729",
+        "companyName": "Tesla, Inc. (Filer)",
+        "type": "10-K",
+        "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies",
+        "filmNo": "26574326",
+        "undefined": "04 Manufacturing)"
+      }
+    ],
+    "id": "b7bfb50ab35a983856e71ae1008dd483",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/0001628280-26-003952-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "10",
+        "size": "102594",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "11",
+        "size": "164628",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "12",
+        "size": "539124",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "13",
+        "size": "1211922",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "14",
+        "size": "829228",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "122",
+        "size": "2684916",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "TSLA",
+    "formType": "10-Q",
+    "accessionNo": "0001628280-25-045968",
+    "cik": "1318605",
+    "companyNameLong": "Tesla, Inc. (Filer)",
+    "companyName": "Tesla, Inc.",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/tsla-20250930.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/0001628280-25-045968.txt",
+    "filedAt": "2025-10-22T21:08:43-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1573631",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1318605/000162828025045968/tsla-20250930.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "10073",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/tsla-2025x09x30xex311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "3",
+        "size": "10052",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/tsla-2025x09x30xex312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "4",
+        "size": "6375",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/tsla-2025x09x30xex321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "8444450",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/0001628280-25-045968.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-09-30",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "TX",
+        "act": "34",
+        "cik": "1318605",
+        "fileNo": "001-34756",
+        "irsNo": "912197729",
+        "companyName": "Tesla, Inc. (Filer)",
+        "type": "10-Q",
+        "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies",
+        "filmNo": "251411222",
+        "undefined": "04 Manufacturing)"
+      }
+    ],
+    "id": "3ba530142cd52e76b7e15cc9000d2c33",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/0001628280-25-045968-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "5",
+        "size": "54524",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/tsla-20250930.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "6",
+        "size": "85631",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/tsla-20250930_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "7",
+        "size": "254829",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/tsla-20250930_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "8",
+        "size": "635129",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/tsla-20250930_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "9",
+        "size": "440085",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/tsla-20250930_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "82",
+        "size": "1444170",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/tsla-20250930_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "TSLA",
+    "formType": "10-Q",
+    "accessionNo": "0001628280-25-035806",
+    "cik": "1318605",
+    "companyNameLong": "Tesla, Inc. (Filer)",
+    "companyName": "Tesla, Inc.",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/tsla-20250630.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/0001628280-25-035806.txt",
+    "filedAt": "2025-07-23T20:23:31-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1518452",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1318605/000162828025035806/tsla-20250630.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "10070",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/tsla-2025x06x30xex311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "3",
+        "size": "10049",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/tsla-2025x06x30xex312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "4",
+        "size": "6359",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/tsla-2025x06x30xex321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "8179390",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/0001628280-25-035806.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-06-30",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "TX",
+        "act": "34",
+        "cik": "1318605",
+        "fileNo": "001-34756",
+        "irsNo": "912197729",
+        "companyName": "Tesla, Inc. (Filer)",
+        "type": "10-Q",
+        "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies",
+        "filmNo": "251144243",
+        "undefined": "04 Manufacturing)"
+      }
+    ],
+    "id": "c23930ea0951bd22cc11af8ba23b8287",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/0001628280-25-035806-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "5",
+        "size": "51221",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/tsla-20250630.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "6",
+        "size": "80275",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/tsla-20250630_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "7",
+        "size": "238682",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/tsla-20250630_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "8",
+        "size": "603286",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/tsla-20250630_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "9",
+        "size": "419108",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/tsla-20250630_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "81",
+        "size": "1415416",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/tsla-20250630_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "TSLA",
+    "formType": "10-K/A",
+    "accessionNo": "0001104659-25-042659",
+    "cik": "1318605",
+    "companyNameLong": "Tesla, Inc. (Filer)",
+    "companyName": "Tesla, Inc.",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000110465925042659/tm252787d2_10ka.htm",
+    "description": "Form 10-K/A - Annual report [Section 13 and 15(d), not S-K Item 405]: [Amend]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1318605/000110465925042659/0001104659-25-042659.txt",
+    "filedAt": "2025-04-30T17:08:56-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "874910",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1318605/000110465925042659/tm252787d2_10ka.htm",
+        "description": "FORM 10-K/A",
+        "type": "10-K/A"
+      },
+      {
+        "sequence": "2",
+        "size": "2916",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000110465925042659/tm252787d2_ex31-3.htm",
+        "description": "EXHIBIT 31.3",
+        "type": "EX-31.3"
+      },
+      {
+        "sequence": "3",
+        "size": "3228",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000110465925042659/tm252787d2_ex31-4.htm",
+        "description": "EXHIBIT 31.4",
+        "type": "EX-31.4"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "1180957",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000110465925042659/0001104659-25-042659.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2024-12-31",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "TX",
+        "act": "34",
+        "cik": "1318605",
+        "fileNo": "001-34756",
+        "companyName": "Tesla, Inc. (Filer)",
+        "type": "10-K/A",
+        "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies",
+        "filmNo": "25897369",
+        "undefined": "04 Manufacturing)"
+      }
+    ],
+    "id": "2df0fa9f4f559aa37cf1384f1e1b1e68",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1318605/000110465925042659/0001104659-25-042659-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "4",
+        "size": "3005",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000110465925042659/tsla-20241231.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "5",
+        "size": "36883",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000110465925042659/tsla-20241231_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "6",
+        "size": "24139",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000110465925042659/tsla-20241231_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "18",
+        "size": "6267",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000110465925042659/tm252787d2_10ka_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "TSLA",
+    "formType": "10-Q",
+    "accessionNo": "0001628280-25-018911",
+    "cik": "1318605",
+    "companyNameLong": "Tesla, Inc. (Filer)",
+    "companyName": "Tesla, Inc.",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025018911/tsla-20250331.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025018911/0001628280-25-018911.txt",
+    "filedAt": "2025-04-22T21:02:10-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1225850",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1318605/000162828025018911/tsla-20250331.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "10236",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025018911/tsla-2025x03x31xex311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "3",
+        "size": "10215",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025018911/tsla-2025x03x31xex312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "4",
+        "size": "6463",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025018911/tsla-2025x03x31xex321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "7508813",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025018911/0001628280-25-018911.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-03-31",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "1318605",
+        "fileNo": "001-34756",
+        "companyName": "Tesla, Inc. (Filer)",
+        "type": "10-Q",
+        "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies",
+        "filmNo": "25859036",
+        "undefined": "04 Manufacturing)"
+      }
+    ],
+    "id": "2abab8a670ff266d6d9458f6e936f4ba",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025018911/0001628280-25-018911-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "5",
+        "size": "51488",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025018911/tsla-20250331.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "6",
+        "size": "80074",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025018911/tsla-20250331_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "7",
+        "size": "238385",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025018911/tsla-20250331_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "8",
+        "size": "600968",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025018911/tsla-20250331_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "9",
+        "size": "418897",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025018911/tsla-20250331_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "81",
+        "size": "1217454",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025018911/tsla-20250331_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  }
+]

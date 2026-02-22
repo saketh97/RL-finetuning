@@ -1,0 +1,769 @@
+[
+  {
+    "ticker": "KO",
+    "formType": "10-K",
+    "accessionNo": "0001628280-26-010047",
+    "cik": "21344",
+    "companyNameLong": "COCA COLA CO (Filer)",
+    "companyName": "COCA COLA CO",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm",
+    "description": "Form 10-K - Annual report [Section 13 and 15(d), not S-K Item 405]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/0001628280-26-010047.txt",
+    "filedAt": "2026-02-20T09:46:32-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "3758140",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm",
+        "description": "10-K",
+        "type": "10-K"
+      },
+      {
+        "sequence": "2",
+        "size": "131668",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/a20251231exhibit41.htm",
+        "description": "EX-4.1",
+        "type": "EX-4.1"
+      },
+      {
+        "sequence": "3",
+        "size": "5395",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/a20251231exhibit10201.htm",
+        "description": "EX-10.20.1",
+        "type": "EX-10.20 1"
+      },
+      {
+        "sequence": "4",
+        "size": "58443",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/a20251231exhibit19.htm",
+        "description": "EX-19",
+        "type": "EX-19"
+      },
+      {
+        "sequence": "5",
+        "size": "20053",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/a20251231exhibit211.htm",
+        "description": "EX-21.1",
+        "type": "EX-21.1"
+      },
+      {
+        "sequence": "6",
+        "size": "10446",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/a20251231exhibit231.htm",
+        "description": "EX-23.1",
+        "type": "EX-23.1"
+      },
+      {
+        "sequence": "7",
+        "size": "54118",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/a20251231exhibit241.htm",
+        "description": "EX-24.1",
+        "type": "EX-24.1"
+      },
+      {
+        "sequence": "8",
+        "size": "8181",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/a20251231exhibit311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "9",
+        "size": "7967",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/a20251231exhibit312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "10",
+        "size": "6010",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/a20251231exhibit321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "16",
+        "size": "235131",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231_g1.jpg",
+        "description": "IMAGE",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "17",
+        "size": "131105",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231_g2.jpg",
+        "description": "IMAGE",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "18",
+        "size": "23758",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231_g3.jpg",
+        "description": "IMAGE",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "19",
+        "size": "15669",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231_g4.jpg",
+        "description": "IMAGE",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "20",
+        "size": "10999",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231_g5.jpg",
+        "description": "IMAGE",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "23510708",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/0001628280-26-010047.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-12-31",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "21344",
+        "fileNo": "001-02217",
+        "irsNo": "580628465",
+        "companyName": "COCA COLA CO (Filer)",
+        "type": "10-K",
+        "sic": "2080 Beverages",
+        "filmNo": "26657000",
+        "undefined": "04 Manufacturing)"
+      }
+    ],
+    "id": "54ba64ebee6e81ef599722c21f6901ae",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/0001628280-26-010047-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "11",
+        "size": "121150",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "12",
+        "size": "232424",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "13",
+        "size": "898103",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "14",
+        "size": "1521167",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "15",
+        "size": "1214775",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "155",
+        "size": "4316775",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "KO",
+    "formType": "10-Q",
+    "accessionNo": "0001628280-25-046054",
+    "cik": "21344",
+    "companyNameLong": "COCA COLA CO (Filer)",
+    "companyName": "COCA COLA CO",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/ko-20250926.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/0001628280-25-046054.txt",
+    "filedAt": "2025-10-23T14:39:30-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "2165835",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/21344/000162828025046054/ko-20250926.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "14260",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/a20250926ex-101.htm",
+        "description": "EX-10.1",
+        "type": "EX-10.1"
+      },
+      {
+        "sequence": "3",
+        "size": "10120",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/a20250926ex-311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "4",
+        "size": "9915",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/a20250926ex-312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "5",
+        "size": "5612",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/a20250926ex-321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "11",
+        "size": "805",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/image_0.jpg",
+        "description": "IMAGE",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "12",
+        "size": "9493",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/image_1.jpg",
+        "description": "IMAGE",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "13",
+        "size": "235131",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/ko-20250926_g1.jpg",
+        "description": "IMAGE",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "13863007",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/0001628280-25-046054.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-09-26",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "21344",
+        "fileNo": "001-02217",
+        "irsNo": "580628465",
+        "companyName": "COCA COLA CO (Filer)",
+        "type": "10-Q",
+        "sic": "2080 Beverages",
+        "filmNo": "251412707",
+        "undefined": "04 Manufacturing)"
+      }
+    ],
+    "id": "fa2d93e0f6b2a852a3616ac81138a476",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/0001628280-25-046054-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "6",
+        "size": "66239",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/ko-20250926.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "7",
+        "size": "183748",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/ko-20250926_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "8",
+        "size": "416944",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/ko-20250926_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "9",
+        "size": "859887",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/ko-20250926_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "10",
+        "size": "639766",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/ko-20250926_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "93",
+        "size": "2861060",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000162828025046054/ko-20250926_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "KO",
+    "formType": "10-Q",
+    "accessionNo": "0000021344-25-000061",
+    "cik": "21344",
+    "companyNameLong": "COCA COLA CO (Filer)",
+    "companyName": "COCA COLA CO",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/ko-20250627.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/0000021344-25-000061.txt",
+    "filedAt": "2025-07-24T14:07:20-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "2113663",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/21344/000002134425000061/ko-20250627.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "76544",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/a20250627ex-101.htm",
+        "description": "EX-10.1",
+        "type": "EX-10.1"
+      },
+      {
+        "sequence": "3",
+        "size": "10117",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/a20250627ex-311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "4",
+        "size": "9912",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/a20250627ex-312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "5",
+        "size": "5601",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/a20250627ex-321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "11",
+        "size": "235131",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/ko-20250627_g1.jpg",
+        "description": "IMAGE",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "13512274",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/0000021344-25-000061.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-06-27",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "21344",
+        "fileNo": "001-02217",
+        "irsNo": "580628465",
+        "companyName": "COCA COLA CO (Filer)",
+        "type": "10-Q",
+        "sic": "2080 Beverages",
+        "filmNo": "251146339",
+        "undefined": "04 Manufacturing)"
+      }
+    ],
+    "id": "a78d2bc5aeda9e0a230770b9e77069ce",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/0000021344-25-000061-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "6",
+        "size": "61206",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/ko-20250627.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "7",
+        "size": "165366",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/ko-20250627_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "8",
+        "size": "400387",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/ko-20250627_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "9",
+        "size": "807620",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/ko-20250627_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "10",
+        "size": "616862",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/ko-20250627_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "91",
+        "size": "2792560",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000061/ko-20250627_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "KO",
+    "formType": "10-Q",
+    "accessionNo": "0000021344-25-000029",
+    "cik": "21344",
+    "companyNameLong": "COCA COLA CO (Filer)",
+    "companyName": "COCA COLA CO",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/ko-20250328.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/0000021344-25-000029.txt",
+    "filedAt": "2025-05-01T15:38:52-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1520559",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/21344/000002134425000029/ko-20250328.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "99593",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/a20250328ex-101.htm",
+        "description": "EX-10.1",
+        "type": "EX-10.1"
+      },
+      {
+        "sequence": "3",
+        "size": "10270",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/a20250328ex-311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "4",
+        "size": "10060",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/a20250328ex-312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "5",
+        "size": "5688",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/a20250328ex-321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "11",
+        "size": "235131",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/ko-20250328_g1.jpg",
+        "description": "IMAGE",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "11147628",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/0000021344-25-000029.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-03-28",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "21344",
+        "fileNo": "001-02217",
+        "companyName": "COCA COLA CO (Filer)",
+        "type": "10-Q",
+        "sic": "2080 Beverages",
+        "filmNo": "25902508",
+        "undefined": "04 Manufacturing)"
+      }
+    ],
+    "id": "ab15f32bb1dbbdade20ab2d5d50ef7a6",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/0000021344-25-000029-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "6",
+        "size": "60402",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/ko-20250328.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "7",
+        "size": "169134",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/ko-20250328_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "8",
+        "size": "391569",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/ko-20250328_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "9",
+        "size": "801125",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/ko-20250328_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "10",
+        "size": "613015",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/ko-20250328_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "93",
+        "size": "1833105",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000029/ko-20250328_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "KO",
+    "formType": "10-K",
+    "accessionNo": "0000021344-25-000011",
+    "cik": "21344",
+    "companyNameLong": "COCA COLA CO (Filer)",
+    "companyName": "COCA COLA CO",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231.htm",
+    "description": "Form 10-K - Annual report [Section 13 and 15(d), not S-K Item 405]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/0000021344-25-000011.txt",
+    "filedAt": "2025-02-20T15:17:12-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "3930907",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/21344/000002134425000011/ko-20241231.htm",
+        "description": "10-K",
+        "type": "10-K"
+      },
+      {
+        "sequence": "2",
+        "size": "133551",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/a20241231exhibit41.htm",
+        "description": "EX-4.1",
+        "type": "EX-4.1"
+      },
+      {
+        "sequence": "3",
+        "size": "56842",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/a20241231exhibit19.htm",
+        "description": "EX-19",
+        "type": "EX-19"
+      },
+      {
+        "sequence": "4",
+        "size": "21371",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/a20241231exhibit211.htm",
+        "description": "EX-21.1",
+        "type": "EX-21.1"
+      },
+      {
+        "sequence": "5",
+        "size": "10655",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/a20241231exhibit231.htm",
+        "description": "EX-23.1",
+        "type": "EX-23.1"
+      },
+      {
+        "sequence": "6",
+        "size": "50002",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/a20241231exhibit241.htm",
+        "description": "EX-24.1",
+        "type": "EX-24.1"
+      },
+      {
+        "sequence": "7",
+        "size": "8276",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/a20241231exhibit311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "8",
+        "size": "8057",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/a20241231exhibit312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "9",
+        "size": "6099",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/a20241231exhibit321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "15",
+        "size": "235131",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231_g1.jpg",
+        "description": "IMAGE",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "16",
+        "size": "131290",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231_g2.jpg",
+        "description": "IMAGE",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "17",
+        "size": "23758",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231_g3.jpg",
+        "description": "IMAGE",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "18",
+        "size": "15669",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231_g4.jpg",
+        "description": "IMAGE",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "19",
+        "size": "10999",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231_g5.jpg",
+        "description": "IMAGE",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "23750417",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/0000021344-25-000011.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2024-12-31",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "21344",
+        "fileNo": "001-02217",
+        "irsNo": "580628465",
+        "companyName": "COCA COLA CO (Filer)",
+        "type": "10-K",
+        "sic": "2080 Beverages",
+        "filmNo": "25644916",
+        "undefined": "04 Manufacturing)"
+      }
+    ],
+    "id": "9b7be1f13fa82e7216ef5c0bd8fb5da3",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/0000021344-25-000011-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "10",
+        "size": "115762",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "11",
+        "size": "224511",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "12",
+        "size": "878364",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "13",
+        "size": "1444047",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "14",
+        "size": "1186658",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "159",
+        "size": "4479106",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  }
+]

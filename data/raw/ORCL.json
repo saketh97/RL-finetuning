@@ -1,0 +1,436 @@
+[
+  {
+    "ticker": "ORCL",
+    "formType": "10-Q",
+    "accessionNo": "0001193125-25-315925",
+    "cik": "1341439",
+    "companyNameLong": "ORACLE CORP (Filer)",
+    "companyName": "ORACLE CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/orcl-20251130.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/0001193125-25-315925.txt",
+    "filedAt": "2025-12-11T16:07:47-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "3771598",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1341439/000119312525315925/orcl-20251130.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "92969",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/orcl-ex10_16.htm",
+        "description": "EX-10.16",
+        "type": "EX-10.16"
+      },
+      {
+        "sequence": "3",
+        "size": "20175",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/orcl-ex31_01.htm",
+        "description": "EX-31.01",
+        "type": "EX-31.01"
+      },
+      {
+        "sequence": "4",
+        "size": "20172",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/orcl-ex31_02.htm",
+        "description": "EX-31.02",
+        "type": "EX-31.02"
+      },
+      {
+        "sequence": "5",
+        "size": "20180",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/orcl-ex31_03.htm",
+        "description": "EX-31.03",
+        "type": "EX-31.03"
+      },
+      {
+        "sequence": "6",
+        "size": "24060",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/orcl-ex32_01.htm",
+        "description": "EX-32.01",
+        "type": "EX-32.01"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "12552675",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/0001193125-25-315925.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-11-30",
+    "entities": [
+      {
+        "fiscalYearEnd": "0531",
+        "act": "34",
+        "cik": "1341439",
+        "fileNo": "001-35992",
+        "irsNo": "542185193",
+        "companyName": "ORACLE CORP (Filer)",
+        "type": "10-Q",
+        "sic": "7372 Services-Prepackaged Software",
+        "filmNo": "251565047",
+        "undefined": "06 Technology)"
+      }
+    ],
+    "id": "83303db50e16dd7a840e08076263f73d",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/0001193125-25-315925-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "7",
+        "size": "1167070",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/orcl-20251130.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "73",
+        "size": "2564356",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/orcl-20251130_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "ORCL",
+    "formType": "10-Q",
+    "accessionNo": "0001193125-25-200095",
+    "cik": "1341439",
+    "companyNameLong": "ORACLE CORP (Filer)",
+    "companyName": "ORACLE CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/orcl-20250831.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/0001193125-25-200095.txt",
+    "filedAt": "2025-09-10T16:11:23-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "2625821",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1341439/000119312525200095/orcl-20250831.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "92197",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/orcl-ex10_17.htm",
+        "description": "EX-10.17",
+        "type": "EX-10.17"
+      },
+      {
+        "sequence": "3",
+        "size": "20186",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/orcl-ex31_01.htm",
+        "description": "EX-31.01",
+        "type": "EX-31.01"
+      },
+      {
+        "sequence": "4",
+        "size": "12259",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/orcl-ex32_01.htm",
+        "description": "EX-32.01",
+        "type": "EX-32.01"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "9892405",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/0001193125-25-200095.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-08-31",
+    "entities": [
+      {
+        "fiscalYearEnd": "0531",
+        "act": "34",
+        "cik": "1341439",
+        "fileNo": "001-35992",
+        "irsNo": "542185193",
+        "companyName": "ORACLE CORP (Filer)",
+        "type": "10-Q",
+        "sic": "7372 Services-Prepackaged Software",
+        "filmNo": "251306000",
+        "undefined": "06 Technology)"
+      }
+    ],
+    "id": "c61f2d102c1eccfc69dc7a97bf17cd99",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/0001193125-25-200095-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "5",
+        "size": "1232700",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/orcl-20250831.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "66",
+        "size": "1789591",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/orcl-20250831_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "ORCL",
+    "formType": "10-K",
+    "accessionNo": "0000950170-25-087926",
+    "cik": "1341439",
+    "companyNameLong": "ORACLE CORP (Filer)",
+    "companyName": "ORACLE CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm",
+    "description": "Form 10-K - Annual report [Section 13 and 15(d), not S-K Item 405]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/0000950170-25-087926.txt",
+    "filedAt": "2025-06-18T16:31:22-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "6549687",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm",
+        "description": "10-K",
+        "type": "10-K"
+      },
+      {
+        "sequence": "2",
+        "size": "53788",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-ex21_01.htm",
+        "description": "EX-21.01",
+        "type": "EX-21.01"
+      },
+      {
+        "sequence": "3",
+        "size": "8531",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-ex23_01.htm",
+        "description": "EX-23.01",
+        "type": "EX-23.01"
+      },
+      {
+        "sequence": "4",
+        "size": "16625",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-ex31_01.htm",
+        "description": "EX-31.01",
+        "type": "EX-31.01"
+      },
+      {
+        "sequence": "5",
+        "size": "10872",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-ex32_01.htm",
+        "description": "EX-32.01",
+        "type": "EX-32.01"
+      },
+      {
+        "sequence": "6",
+        "size": "520030",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/img148471493_0.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "26423510",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/0000950170-25-087926.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-05-31",
+    "entities": [
+      {
+        "fiscalYearEnd": "0531",
+        "act": "34",
+        "cik": "1341439",
+        "fileNo": "001-35992",
+        "irsNo": "542185193",
+        "companyName": "ORACLE CORP (Filer)",
+        "type": "10-K",
+        "sic": "7372 Services-Prepackaged Software",
+        "filmNo": "251057371",
+        "undefined": "06 Technology)"
+      }
+    ],
+    "id": "f27ec1cf068a8c2b49d81ecbad352b1e",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/0000950170-25-087926-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "7",
+        "size": "2407618",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "105",
+        "size": "6261456",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "ORCL",
+    "formType": "10-Q",
+    "accessionNo": "0000950170-25-037143",
+    "cik": "1341439",
+    "companyNameLong": "ORACLE CORP (Filer)",
+    "companyName": "ORACLE CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/orcl-20250228.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/0000950170-25-037143.txt",
+    "filedAt": "2025-03-11T16:11:43-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "3474738",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1341439/000095017025037143/orcl-20250228.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "19388",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/orcl-ex31_01.htm",
+        "description": "EX-31.01",
+        "type": "EX-31.01"
+      },
+      {
+        "sequence": "3",
+        "size": "11487",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/orcl-ex32_01.htm",
+        "description": "EX-32.01",
+        "type": "EX-32.01"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "11301971",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/0000950170-25-037143.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-02-28",
+    "entities": [
+      {
+        "fiscalYearEnd": "0531",
+        "act": "34",
+        "cik": "1341439",
+        "fileNo": "001-35992",
+        "irsNo": "542185193",
+        "companyName": "ORACLE CORP (Filer)",
+        "type": "10-Q",
+        "sic": "7372 Services-Prepackaged Software",
+        "filmNo": "25727702",
+        "undefined": "06 Technology)"
+      }
+    ],
+    "id": "5eacbfe54ba2986b207419137a0cd05f",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/0000950170-25-037143-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "4",
+        "size": "1130274",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/orcl-20250228.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "62",
+        "size": "2274169",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/orcl-20250228_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "ORCL",
+    "formType": "10-Q",
+    "accessionNo": "0000950170-24-134973",
+    "cik": "1341439",
+    "companyNameLong": "ORACLE CORP (Filer)",
+    "companyName": "ORACLE CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/orcl-20241130.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/0000950170-24-134973.txt",
+    "filedAt": "2024-12-10T16:11:21-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "3224324",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1341439/000095017024134973/orcl-20241130.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "19308",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/orcl-ex31_01.htm",
+        "description": "EX-31.01",
+        "type": "EX-31.01"
+      },
+      {
+        "sequence": "3",
+        "size": "10894",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/orcl-ex32_01.htm",
+        "description": "EX-32.01",
+        "type": "EX-32.01"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "10527153",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/0000950170-24-134973.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2024-11-30",
+    "entities": [
+      {
+        "fiscalYearEnd": "0531",
+        "act": "34",
+        "cik": "1341439",
+        "fileNo": "001-35992",
+        "irsNo": "542185193",
+        "companyName": "ORACLE CORP (Filer)",
+        "type": "10-Q",
+        "sic": "7372 Services-Prepackaged Software",
+        "filmNo": "241538588",
+        "undefined": "06 Technology)"
+      }
+    ],
+    "id": "935d66ddc3b3459f7492fb1b1d7a8b9d",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/0000950170-24-134973-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "4",
+        "size": "1091480",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/orcl-20241130.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "62",
+        "size": "2046264",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/orcl-20241130_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  }
+]

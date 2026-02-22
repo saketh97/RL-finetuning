@@ -1,0 +1,5 @@
+Business Porblem Understanding
+
+a. Requirement:
+    A corporate financial risk analyst producing professional risk analysis reports from the structured financial data.
+    

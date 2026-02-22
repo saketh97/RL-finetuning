@@ -1,0 +1,660 @@
+[
+  {
+    "ticker": "COST",
+    "formType": "10-Q",
+    "accessionNo": "0000909832-25-000169",
+    "cik": "909832",
+    "companyNameLong": "COSTCO WHOLESALE CORP /NEW (Filer)",
+    "companyName": "COSTCO WHOLESALE CORP /NEW",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/cost-20251123.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/0000909832-25-000169.txt",
+    "filedAt": "2025-12-17T17:12:42-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "684049",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/909832/000090983225000169/cost-20251123.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "75396",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/costex10210q112325.htm",
+        "description": "EX-10.2",
+        "type": "EX-10.2"
+      },
+      {
+        "sequence": "3",
+        "size": "38603",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/costex10310q112325.htm",
+        "description": "EX-10.3",
+        "type": "EX-10.3"
+      },
+      {
+        "sequence": "4",
+        "size": "64783",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/costex10410q112325.htm",
+        "description": "EX-10.4",
+        "type": "EX-10.4"
+      },
+      {
+        "sequence": "5",
+        "size": "19112",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/costex31110q112325.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "6",
+        "size": "11026",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/costex32110q112325.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "4717162",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/0000909832-25-000169.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-11-23",
+    "entities": [
+      {
+        "fiscalYearEnd": "0830",
+        "stateOfIncorporation": "WA",
+        "act": "34",
+        "cik": "909832",
+        "fileNo": "000-20355",
+        "irsNo": "911223280",
+        "companyName": "COSTCO WHOLESALE CORP /NEW (Filer)",
+        "type": "10-Q",
+        "sic": "5331 Retail-Variety Stores",
+        "filmNo": "251580183",
+        "undefined": "07 Trade &amp; Services)"
+      }
+    ],
+    "id": "4267101bce9fda10a7f8a4efddb994a0",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/0000909832-25-000169-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "7",
+        "size": "28018",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/cost-20251123.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "8",
+        "size": "48661",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/cost-20251123_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "9",
+        "size": "124500",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/cost-20251123_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "10",
+        "size": "461062",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/cost-20251123_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "11",
+        "size": "313337",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/cost-20251123_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "64",
+        "size": "500943",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/cost-20251123_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "COST",
+    "formType": "10-K",
+    "accessionNo": "0000909832-25-000101",
+    "cik": "909832",
+    "companyNameLong": "COSTCO WHOLESALE CORP /NEW (Filer)",
+    "companyName": "COSTCO WHOLESALE CORP /NEW",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm",
+    "description": "Form 10-K - Annual report [Section 13 and 15(d), not S-K Item 405]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/0000909832-25-000101.txt",
+    "filedAt": "2025-10-07T21:16:06-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1438962",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm",
+        "description": "10-K",
+        "type": "10-K"
+      },
+      {
+        "sequence": "2",
+        "size": "12925",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/costex21110k83125.htm",
+        "description": "EX-21.1",
+        "type": "EX-21.1"
+      },
+      {
+        "sequence": "3",
+        "size": "2414",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/costex23110k83125.htm",
+        "description": "EX-23.1",
+        "type": "EX-23.1"
+      },
+      {
+        "sequence": "4",
+        "size": "19096",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/costex31110k83125.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "5",
+        "size": "10930",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/costex32110k83125.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "11",
+        "size": "95961",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "8258764",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/0000909832-25-000101.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-08-31",
+    "entities": [
+      {
+        "fiscalYearEnd": "0831",
+        "stateOfIncorporation": "WA",
+        "act": "34",
+        "cik": "909832",
+        "fileNo": "000-20355",
+        "irsNo": "911223280",
+        "companyName": "COSTCO WHOLESALE CORP /NEW (Filer)",
+        "type": "10-K",
+        "sic": "5331 Retail-Variety Stores",
+        "filmNo": "251381129",
+        "undefined": "07 Trade &amp; Services)"
+      }
+    ],
+    "id": "ccbb670add2d87e9a877c73401c87858",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/0000909832-25-000101-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "6",
+        "size": "47173",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "7",
+        "size": "82831",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "8",
+        "size": "178259",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "9",
+        "size": "705611",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "10",
+        "size": "481803",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "91",
+        "size": "1158155",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "COST",
+    "formType": "10-Q",
+    "accessionNo": "0000909832-25-000033",
+    "cik": "909832",
+    "companyNameLong": "COSTCO WHOLESALE CORP /NEW (Filer)",
+    "companyName": "COSTCO WHOLESALE CORP /NEW",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/cost-20250511.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/0000909832-25-000033.txt",
+    "filedAt": "2025-06-04T19:10:00-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "821483",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/909832/000090983225000033/cost-20250511.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "19111",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/costex31110q51125.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "3",
+        "size": "10965",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/costex32110q51125.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "4549967",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/0000909832-25-000033.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-05-11",
+    "entities": [
+      {
+        "fiscalYearEnd": "0831",
+        "stateOfIncorporation": "WA",
+        "act": "34",
+        "cik": "909832",
+        "fileNo": "000-20355",
+        "irsNo": "911223280",
+        "companyName": "COSTCO WHOLESALE CORP /NEW (Filer)",
+        "type": "10-Q",
+        "sic": "5331 Retail-Variety Stores",
+        "filmNo": "251024589",
+        "undefined": "07 Trade &amp; Services)"
+      }
+    ],
+    "id": "9f0182970b9ae13225e00277c4572be3",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/0000909832-25-000033-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "4",
+        "size": "26169",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/cost-20250511.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "5",
+        "size": "49240",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/cost-20250511_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "6",
+        "size": "115266",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/cost-20250511_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "7",
+        "size": "460275",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/cost-20250511_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "8",
+        "size": "301759",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/cost-20250511_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "58",
+        "size": "500933",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/cost-20250511_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "COST",
+    "formType": "10-Q",
+    "accessionNo": "0000909832-25-000015",
+    "cik": "909832",
+    "companyNameLong": "COSTCO WHOLESALE CORP /NEW (Filer)",
+    "companyName": "COSTCO WHOLESALE CORP /NEW",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/cost-20250216.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/0000909832-25-000015.txt",
+    "filedAt": "2025-03-12T17:34:37-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "832119",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/909832/000090983225000015/cost-20250216.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "1397484",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/costex10210q21625.htm",
+        "description": "EX-10.2",
+        "type": "EX-10.2"
+      },
+      {
+        "sequence": "3",
+        "size": "19115",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/costex31110q21625.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "4",
+        "size": "10979",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/costex32110q21625.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "10",
+        "size": "54942",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/image_0.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "11",
+        "size": "19535",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/image_1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "12",
+        "size": "18344",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/image_10.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "13",
+        "size": "5291",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/image_12.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "14",
+        "size": "9230",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/image_13a.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "15",
+        "size": "20694",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/image_2.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "16",
+        "size": "18206",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/image_3.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "17",
+        "size": "57787",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/image_4.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "18",
+        "size": "490245",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/image_7.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "19",
+        "size": "19517",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/image_8.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "20",
+        "size": "20711",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/image_9.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "7120372",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/0000909832-25-000015.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-02-16",
+    "entities": [
+      {
+        "fiscalYearEnd": "0831",
+        "stateOfIncorporation": "WA",
+        "act": "34",
+        "cik": "909832",
+        "fileNo": "000-20355",
+        "irsNo": "911223280",
+        "companyName": "COSTCO WHOLESALE CORP /NEW (Filer)",
+        "type": "10-Q",
+        "sic": "5331 Retail-Variety Stores",
+        "filmNo": "25732987",
+        "undefined": "07 Trade &amp; Services)"
+      }
+    ],
+    "id": "7f9ef3ed783c068ca567a1bfe7e656c1",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/0000909832-25-000015-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "5",
+        "size": "25887",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/cost-20250216.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "6",
+        "size": "49240",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/cost-20250216_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "7",
+        "size": "110371",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/cost-20250216_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "8",
+        "size": "455057",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/cost-20250216_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "9",
+        "size": "297951",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/cost-20250216_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "71",
+        "size": "501874",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/cost-20250216_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "COST",
+    "formType": "10-Q",
+    "accessionNo": "0000909832-24-000079",
+    "cik": "909832",
+    "companyNameLong": "COSTCO WHOLESALE CORP /NEW (Filer)",
+    "companyName": "COSTCO WHOLESALE CORP /NEW",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/cost-20241124.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/0000909832-24-000079.txt",
+    "filedAt": "2024-12-18T18:09:53-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "644206",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/909832/000090983224000079/cost-20241124.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "75406",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/costex10210q112424.htm",
+        "description": "EX-10.2",
+        "type": "EX-10.2"
+      },
+      {
+        "sequence": "3",
+        "size": "94250",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/costex10310q112424.htm",
+        "description": "EX-10.3",
+        "type": "EX-10.3"
+      },
+      {
+        "sequence": "4",
+        "size": "19122",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/costex31110q112424.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "5",
+        "size": "10986",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/costex32110q112424.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "4339774",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/0000909832-24-000079.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2024-11-24",
+    "entities": [
+      {
+        "fiscalYearEnd": "0831",
+        "stateOfIncorporation": "WA",
+        "act": "34",
+        "cik": "909832",
+        "fileNo": "000-20355",
+        "irsNo": "911223280",
+        "companyName": "COSTCO WHOLESALE CORP /NEW (Filer)",
+        "type": "10-Q",
+        "sic": "5331 Retail-Variety Stores",
+        "filmNo": "241560507",
+        "undefined": "07 Trade &amp; Services)"
+      }
+    ],
+    "id": "5f7a0ecac02a7a6321ad09506f387c81",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/0000909832-24-000079-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "6",
+        "size": "25887",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/cost-20241124.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "7",
+        "size": "49240",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/cost-20241124_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "8",
+        "size": "110371",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/cost-20241124_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "9",
+        "size": "454106",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/cost-20241124_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "10",
+        "size": "297339",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/cost-20241124_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "61",
+        "size": "406066",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/cost-20241124_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  }
+]

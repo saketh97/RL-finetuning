@@ -1,0 +1,1317 @@
+[
+  {
+    "ticker": "META",
+    "formType": "10-K",
+    "accessionNo": "0001628280-26-003942",
+    "cik": "1326801",
+    "companyNameLong": "Meta Platforms, Inc. (Filer)",
+    "companyName": "Meta Platforms, Inc.",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+    "description": "Form 10-K - Annual report [Section 13 and 15(d), not S-K Item 405]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942.txt",
+    "filedAt": "2026-01-28T19:13:46-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "2371750",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+        "description": "10-K",
+        "type": "10-K"
+      },
+      {
+        "sequence": "2",
+        "size": "28540",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-12312025x10kexhibit104.htm",
+        "description": "EX-10.4",
+        "type": "EX-10.4"
+      },
+      {
+        "sequence": "3",
+        "size": "2735",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-12312025x10kexhibit211.htm",
+        "description": "EX-21.1",
+        "type": "EX-21.1"
+      },
+      {
+        "sequence": "4",
+        "size": "7485",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-12312025x10kexhibit231.htm",
+        "description": "EX-23.1",
+        "type": "EX-23.1"
+      },
+      {
+        "sequence": "5",
+        "size": "9507",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-12312025x10kexhibit311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "6",
+        "size": "9377",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-12312025x10kexhibit312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "7",
+        "size": "5998",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-12312025x10kexhibit321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "8",
+        "size": "5846",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-12312025x10kexhibit322.htm",
+        "description": "EX-32.2",
+        "type": "EX-32.2"
+      },
+      {
+        "sequence": "14",
+        "size": "16019",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "15",
+        "size": "65903",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g10.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "16",
+        "size": "69713",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g11.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "17",
+        "size": "49373",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g12.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "18",
+        "size": "48020",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g13.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "19",
+        "size": "46137",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g14.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "20",
+        "size": "51315",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g15.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "21",
+        "size": "47553",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g16.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "22",
+        "size": "46974",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g17.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "23",
+        "size": "46362",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g18.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "24",
+        "size": "48238",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g19.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "25",
+        "size": "120049",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g2.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "26",
+        "size": "45289",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g20.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "27",
+        "size": "50806",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g21.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "28",
+        "size": "59198",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g3.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "29",
+        "size": "61704",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g4.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "30",
+        "size": "57572",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g5.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "31",
+        "size": "60497",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g6.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "32",
+        "size": "57580",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g7.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "33",
+        "size": "8011",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g8.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "34",
+        "size": "7906",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_g9.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "14509410",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-12-31",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "1326801",
+        "fileNo": "001-35551",
+        "irsNo": "201665019",
+        "companyName": "Meta Platforms, Inc. (Filer)",
+        "type": "10-K",
+        "sic": "7370 Services-Computer Programming, Data Processing, Etc.",
+        "filmNo": "26574094",
+        "undefined": "06 Technology)"
+      }
+    ],
+    "id": "436d810ac8c303da1a6c11d324cb0cd1",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "9",
+        "size": "65109",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "10",
+        "size": "148431",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "11",
+        "size": "312303",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "12",
+        "size": "897226",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "13",
+        "size": "639135",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "135",
+        "size": "1876078",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "META",
+    "formType": "10-Q",
+    "accessionNo": "0001628280-25-047240",
+    "cik": "1326801",
+    "companyNameLong": "Meta Platforms, Inc. (Filer)",
+    "companyName": "Meta Platforms, Inc.",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/0001628280-25-047240.txt",
+    "filedAt": "2025-10-29T18:50:26-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1798449",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1326801/000162828025047240/meta-20250930.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "9234",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta09302025-ex311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "3",
+        "size": "9181",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta09302025-ex312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "4",
+        "size": "5421",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta09302025-ex321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "5",
+        "size": "5354",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta09302025-ex322.htm",
+        "description": "EX-32.2",
+        "type": "EX-32.2"
+      },
+      {
+        "sequence": "11",
+        "size": "16019",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "12",
+        "size": "69130",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g10.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "13",
+        "size": "48921",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g11.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "14",
+        "size": "47821",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g12.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "15",
+        "size": "46261",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g13.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "16",
+        "size": "51015",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g14.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "17",
+        "size": "47700",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g15.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "18",
+        "size": "47269",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g16.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "19",
+        "size": "46693",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g17.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "20",
+        "size": "47592",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g18.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "21",
+        "size": "45895",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g19.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "22",
+        "size": "61148",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g2.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "23",
+        "size": "49624",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g20.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "24",
+        "size": "63202",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g3.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "25",
+        "size": "55807",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g4.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "26",
+        "size": "59680",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g5.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "27",
+        "size": "57124",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g6.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "28",
+        "size": "8011",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g7.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "29",
+        "size": "7906",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g8.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "30",
+        "size": "65863",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_g9.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "10314667",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/0001628280-25-047240.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-09-30",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "1326801",
+        "fileNo": "001-35551",
+        "irsNo": "201665019",
+        "companyName": "Meta Platforms, Inc. (Filer)",
+        "type": "10-Q",
+        "sic": "7370 Services-Computer Programming, Data Processing, Etc.",
+        "filmNo": "251431570",
+        "undefined": "06 Technology)"
+      }
+    ],
+    "id": "8371c66a29355213643be7979d59c368",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/0001628280-25-047240-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "6",
+        "size": "41555",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "7",
+        "size": "77330",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "8",
+        "size": "246669",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "9",
+        "size": "618940",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "10",
+        "size": "433846",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "100",
+        "size": "1128411",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/meta-20250930_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "META",
+    "formType": "10-Q",
+    "accessionNo": "0001628280-25-036791",
+    "cik": "1326801",
+    "companyNameLong": "Meta Platforms, Inc. (Filer)",
+    "companyName": "Meta Platforms, Inc.",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/0001628280-25-036791.txt",
+    "filedAt": "2025-07-30T20:02:12-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1717169",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1326801/000162828025036791/meta-20250630.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "157839",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta06302025-ex101.htm",
+        "description": "EX-10.1",
+        "type": "EX-10.1"
+      },
+      {
+        "sequence": "3",
+        "size": "283282",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta06302025-ex102.htm",
+        "description": "EX-10.2",
+        "type": "EX-10.2"
+      },
+      {
+        "sequence": "4",
+        "size": "28688",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta06302025-ex103.htm",
+        "description": "EX-10.3",
+        "type": "EX-10.3"
+      },
+      {
+        "sequence": "5",
+        "size": "66402",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta06302025-ex104.htm",
+        "description": "EX-10.4",
+        "type": "EX-10.4"
+      },
+      {
+        "sequence": "6",
+        "size": "9231",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta06302025-ex311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "7",
+        "size": "9178",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta06302025-ex312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "8",
+        "size": "5413",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta06302025-ex321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "9",
+        "size": "5346",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta06302025-ex322.htm",
+        "description": "EX-32.2",
+        "type": "EX-32.2"
+      },
+      {
+        "sequence": "15",
+        "size": "16019",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "16",
+        "size": "69587",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g10.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "17",
+        "size": "50562",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g11.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "18",
+        "size": "49219",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g12.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "19",
+        "size": "48552",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g13.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "20",
+        "size": "51380",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g14.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "21",
+        "size": "49295",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g15.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "22",
+        "size": "47505",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g16.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "23",
+        "size": "47360",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g17.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "24",
+        "size": "48426",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g18.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "25",
+        "size": "48262",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g19.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "26",
+        "size": "62205",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g2.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "27",
+        "size": "50180",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g20.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "28",
+        "size": "62247",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g3.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "29",
+        "size": "54796",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g4.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "30",
+        "size": "58532",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g5.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "31",
+        "size": "55967",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g6.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "32",
+        "size": "8011",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g7.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "33",
+        "size": "7906",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g8.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "34",
+        "size": "65304",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_g9.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "10163183",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/0001628280-25-036791.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-06-30",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "1326801",
+        "fileNo": "001-35551",
+        "irsNo": "201665019",
+        "companyName": "Meta Platforms, Inc. (Filer)",
+        "type": "10-Q",
+        "sic": "7370 Services-Computer Programming, Data Processing, Etc.",
+        "filmNo": "251168841",
+        "undefined": "06 Technology)"
+      }
+    ],
+    "id": "20fb93f13e0f7422ec278cab29748b5f",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/0001628280-25-036791-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "10",
+        "size": "34030",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "11",
+        "size": "67137",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "12",
+        "size": "208002",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "13",
+        "size": "546362",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "14",
+        "size": "380896",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "97",
+        "size": "982159",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "META",
+    "formType": "10-Q",
+    "accessionNo": "0001326801-25-000054",
+    "cik": "1326801",
+    "companyNameLong": "Meta Platforms, Inc. (Filer)",
+    "companyName": "Meta Platforms, Inc.",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/0001326801-25-000054.txt",
+    "filedAt": "2025-04-30T20:03:18-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1488916",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1326801/000132680125000054/meta-20250331.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "27912",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-03312025xex101.htm",
+        "description": "EX-10.1",
+        "type": "EX-10.1"
+      },
+      {
+        "sequence": "3",
+        "size": "9332",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta03312025-ex311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "4",
+        "size": "9279",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta03312025-ex312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "5",
+        "size": "5490",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta03312025-ex321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "6",
+        "size": "5423",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta03312025-ex322.htm",
+        "description": "EX-32.2",
+        "type": "EX-32.2"
+      },
+      {
+        "sequence": "12",
+        "size": "16019",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g1.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "13",
+        "size": "68779",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g10.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "14",
+        "size": "50849",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g11.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "15",
+        "size": "49345",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g12.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "16",
+        "size": "48309",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g13.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "17",
+        "size": "51739",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g14.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "18",
+        "size": "50133",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g15.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "19",
+        "size": "48404",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g16.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "20",
+        "size": "47873",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g17.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "21",
+        "size": "48461",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g18.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "22",
+        "size": "49333",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g19.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "23",
+        "size": "61656",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g2.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "24",
+        "size": "50234",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g20.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "25",
+        "size": "62144",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g3.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "26",
+        "size": "54338",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g4.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "27",
+        "size": "58260",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g5.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "28",
+        "size": "55776",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g6.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "29",
+        "size": "8011",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g7.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "30",
+        "size": "7906",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g8.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "31",
+        "size": "65385",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_g9.jpg",
+        "description": "null",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "9093598",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/0001326801-25-000054.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-03-31",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "1326801",
+        "fileNo": "001-35551",
+        "companyName": "Meta Platforms, Inc. (Filer)",
+        "type": "10-Q",
+        "sic": "7370 Services-Computer Programming, Data Processing, Etc.",
+        "filmNo": "25898741",
+        "undefined": "06 Technology)"
+      }
+    ],
+    "id": "4ba87d11707cbaae33ad84262e1fa2fc",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/0001326801-25-000054-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "7",
+        "size": "32513",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "8",
+        "size": "64516",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "9",
+        "size": "203014",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "10",
+        "size": "530300",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "11",
+        "size": "370612",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "93",
+        "size": "843575",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/meta-20250331_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "META",
+    "formType": "10-K",
+    "accessionNo": "0001326801-25-000017",
+    "cik": "1326801",
+    "companyNameLong": "Meta Platforms, Inc. (Filer)",
+    "companyName": "Meta Platforms, Inc.",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm",
+    "description": "Form 10-K - Annual report [Section 13 and 15(d), not S-K Item 405]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/0001326801-25-000017.txt",
+    "filedAt": "2025-01-29T20:00:50-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "2369769",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm",
+        "description": "10-K",
+        "type": "10-K"
+      },
+      {
+        "sequence": "2",
+        "size": "53389",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-12312024x10kexhibit191.htm",
+        "description": "EX-19.1",
+        "type": "EX-19.1"
+      },
+      {
+        "sequence": "3",
+        "size": "38286",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-12312024x10kexhibit192.htm",
+        "description": "EX-19.2",
+        "type": "EX-19.2"
+      },
+      {
+        "sequence": "4",
+        "size": "7715",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-12312024x10kexhibit211.htm",
+        "description": "EX-21.1",
+        "type": "EX-21.1"
+      },
+      {
+        "sequence": "5",
+        "size": "7376",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-12312024x10kexhibit231.htm",
+        "description": "EX-23.1",
+        "type": "EX-23.1"
+      },
+      {
+        "sequence": "6",
+        "size": "9612",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-12312024x10kexhibit311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "7",
+        "size": "9482",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-12312024x10kexhibit312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "8",
+        "size": "6078",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-12312024x10kexhibit321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "9",
+        "size": "5926",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-12312024x10kexhibit322.htm",
+        "description": "EX-32.2",
+        "type": "EX-32.2"
+      },
+      {
+        "sequence": "15",
+        "size": "16019",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "16",
+        "size": "64768",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g10.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "17",
+        "size": "68248",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g11.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "18",
+        "size": "49100",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g12.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "19",
+        "size": "48879",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g13.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "20",
+        "size": "47002",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g14.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "21",
+        "size": "50869",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g15.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "22",
+        "size": "49288",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g16.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "23",
+        "size": "49520",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g17.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "24",
+        "size": "49347",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g18.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "25",
+        "size": "49917",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g19.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "26",
+        "size": "125673",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g2.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "27",
+        "size": "49998",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g20.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "28",
+        "size": "51271",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g21.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "29",
+        "size": "60326",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g3.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "30",
+        "size": "61880",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g4.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "31",
+        "size": "53921",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g5.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "32",
+        "size": "57716",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g6.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "33",
+        "size": "54761",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g7.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "34",
+        "size": "8011",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g8.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "35",
+        "size": "7906",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_g9.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "14236240",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/0001326801-25-000017.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2024-12-31",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "DE",
+        "act": "34",
+        "cik": "1326801",
+        "fileNo": "001-35551",
+        "irsNo": "201665019",
+        "companyName": "Meta Platforms, Inc. (Filer)",
+        "type": "10-K",
+        "sic": "7370 Services-Computer Programming, Data Processing, Etc.",
+        "filmNo": "25570747",
+        "undefined": "06 Technology)"
+      }
+    ],
+    "id": "3f46c988e1dc3f883e8163dbf7b8620d",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/0001326801-25-000017-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "10",
+        "size": "59016",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "11",
+        "size": "133249",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "12",
+        "size": "334917",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "13",
+        "size": "819958",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "14",
+        "size": "610187",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "138",
+        "size": "1823441",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  }
+]

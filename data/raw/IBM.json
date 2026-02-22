@@ -1,0 +1,1587 @@
+[
+  {
+    "ticker": "IBM",
+    "formType": "10-Q",
+    "accessionNo": "0000051143-25-000064",
+    "cik": "51143",
+    "companyNameLong": "INTERNATIONAL BUSINESS MACHINES CORP (Filer)",
+    "companyName": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000064/ibm-20250930.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000064/0000051143-25-000064.txt",
+    "filedAt": "2025-10-23T16:21:14-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "3845088",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/51143/000005114325000064/ibm-20250930.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "10254",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000064/form10-q3q25ex311102325.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "3",
+        "size": "10243",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000064/form10-q3q25ex312102325.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "4",
+        "size": "5479",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000064/form10-q3q25ex321102325.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "5",
+        "size": "5520",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000064/form10-q3q25ex322102325.htm",
+        "description": "EX-32.2",
+        "type": "EX-32.2"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "18727045",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000064/0000051143-25-000064.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-09-30",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "NY",
+        "act": "34",
+        "cik": "51143",
+        "fileNo": "001-02360",
+        "irsNo": "130871985",
+        "companyName": "INTERNATIONAL BUSINESS MACHINES CORP (Filer)",
+        "type": "10-Q",
+        "sic": "3570 Computer &amp; office Equipment",
+        "filmNo": "251413350",
+        "undefined": "06 Technology)"
+      }
+    ],
+    "id": "3caf5fc4b808805cf6b47e9584cc4e7c",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000064/0000051143-25-000064-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "6",
+        "size": "94855",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000064/ibm-20250930.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "7",
+        "size": "150602",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000064/ibm-20250930_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "8",
+        "size": "527260",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000064/ibm-20250930_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "9",
+        "size": "1097860",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000064/ibm-20250930_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "10",
+        "size": "805552",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000064/ibm-20250930_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "120",
+        "size": "4223205",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000064/ibm-20250930_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "IBM",
+    "formType": "10-Q",
+    "accessionNo": "0000051143-25-000052",
+    "cik": "51143",
+    "companyNameLong": "INTERNATIONAL BUSINESS MACHINES CORP (Filer)",
+    "companyName": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/ibm-20250630.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/0000051143-25-000052.txt",
+    "filedAt": "2025-07-24T16:16:47-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "3817050",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/51143/000005114325000052/ibm-20250630.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "109234",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425.htm",
+        "description": "EX-3.2",
+        "type": "EX-3.2"
+      },
+      {
+        "sequence": "3",
+        "size": "10251",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex311072425.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "4",
+        "size": "10240",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex312072425.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "5",
+        "size": "5471",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex321072425.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "6",
+        "size": "5512",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex322072425.htm",
+        "description": "EX-32.2",
+        "type": "EX-32.2"
+      },
+      {
+        "sequence": "12",
+        "size": "34749",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425001.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "13",
+        "size": "166885",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425002.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "14",
+        "size": "182194",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425003.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "15",
+        "size": "52999",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425004.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "16",
+        "size": "170264",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425005.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "17",
+        "size": "293440",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425006.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "18",
+        "size": "207423",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425007.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "19",
+        "size": "279185",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425008.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "20",
+        "size": "298635",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425009.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "21",
+        "size": "273677",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425010.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "22",
+        "size": "233134",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425011.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "23",
+        "size": "292699",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425012.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "24",
+        "size": "297665",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425013.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "25",
+        "size": "291293",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425014.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "26",
+        "size": "299773",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425015.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "27",
+        "size": "287817",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425016.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "28",
+        "size": "285901",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425017.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "29",
+        "size": "290729",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425018.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "30",
+        "size": "233180",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425019.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "31",
+        "size": "259026",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425020.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "32",
+        "size": "240425",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425021.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "33",
+        "size": "291277",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425022.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "34",
+        "size": "249055",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425023.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "35",
+        "size": "266335",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425024.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "36",
+        "size": "261324",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425025.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "37",
+        "size": "164730",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425026.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "38",
+        "size": "231520",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425027.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "39",
+        "size": "283354",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425028.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "40",
+        "size": "255306",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425029.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "41",
+        "size": "283784",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425030.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "42",
+        "size": "182574",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425031.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "43",
+        "size": "87480",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/form10-q2q25ex32072425032.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "29066150",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/0000051143-25-000052.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-06-30",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "NY",
+        "act": "34",
+        "cik": "51143",
+        "fileNo": "001-02360",
+        "irsNo": "130871985",
+        "companyName": "INTERNATIONAL BUSINESS MACHINES CORP (Filer)",
+        "type": "10-Q",
+        "sic": "3570 Computer &amp; office Equipment",
+        "filmNo": "251147077",
+        "undefined": "06 Technology)"
+      }
+    ],
+    "id": "41a114641532c30c99bac07124f504fc",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/0000051143-25-000052-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "7",
+        "size": "92723",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/ibm-20250630.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "8",
+        "size": "150108",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/ibm-20250630_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "9",
+        "size": "514362",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/ibm-20250630_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "10",
+        "size": "1090531",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/ibm-20250630_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "11",
+        "size": "789054",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/ibm-20250630_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "152",
+        "size": "4190757",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000052/ibm-20250630_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "IBM",
+    "formType": "10-Q",
+    "accessionNo": "0000051143-25-000032",
+    "cik": "51143",
+    "companyNameLong": "INTERNATIONAL BUSINESS MACHINES CORP (Filer)",
+    "companyName": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/ibm-20250331.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/0000051143-25-000032.txt",
+    "filedAt": "2025-04-24T16:16:05-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "2721055",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/51143/000005114325000032/ibm-20250331.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "11497",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex101042425.htm",
+        "description": "EX-10.1",
+        "type": "EX-10.1"
+      },
+      {
+        "sequence": "3",
+        "size": "18262",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex102042425.htm",
+        "description": "EX-10.2",
+        "type": "EX-10.2"
+      },
+      {
+        "sequence": "4",
+        "size": "6087",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex103042425.htm",
+        "description": "EX-10.3",
+        "type": "EX-10.3"
+      },
+      {
+        "sequence": "5",
+        "size": "10407",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex311042425.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "6",
+        "size": "10396",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex312042425.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "7",
+        "size": "5558",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q24ex321042425.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "8",
+        "size": "5599",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex322042425.htm",
+        "description": "EX-32.2",
+        "type": "EX-32.2"
+      },
+      {
+        "sequence": "14",
+        "size": "203975",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex101042425001.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "15",
+        "size": "186630",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex101042425002.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "16",
+        "size": "138690",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex101042425003.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "17",
+        "size": "91846",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex102042425001.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "18",
+        "size": "265993",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex102042425002.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "19",
+        "size": "331279",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex102042425003.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "20",
+        "size": "299454",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex102042425004.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "21",
+        "size": "252332",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex102042425005.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "22",
+        "size": "297217",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex103042425001.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "23",
+        "size": "99444",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/form10-q1q25ex103042425002.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "18474168",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/0000051143-25-000032.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2025-03-31",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "NY",
+        "act": "34",
+        "cik": "51143",
+        "fileNo": "001-02360",
+        "companyName": "INTERNATIONAL BUSINESS MACHINES CORP (Filer)",
+        "type": "10-Q",
+        "sic": "3570 Computer &amp; office Equipment",
+        "filmNo": "25867546",
+        "undefined": "06 Technology)"
+      }
+    ],
+    "id": "2609e31dfb989eaa8de9dad474ca4abf",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/0000051143-25-000032-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "9",
+        "size": "92742",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/ibm-20250331.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "10",
+        "size": "150108",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/ibm-20250331_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "11",
+        "size": "519014",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/ibm-20250331_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "12",
+        "size": "1090769",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/ibm-20250331_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "13",
+        "size": "793287",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/ibm-20250331_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "132",
+        "size": "3122992",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000032/ibm-20250331_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "IBM",
+    "formType": "10-K",
+    "accessionNo": "0000051143-25-000015",
+    "cik": "51143",
+    "companyNameLong": "INTERNATIONAL BUSINESS MACHINES CORP (Filer)",
+    "companyName": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231.htm",
+    "description": "Form 10-K - Annual report [Section 13 and 15(d), not S-K Item 405]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/0000051143-25-000015.txt",
+    "filedAt": "2025-02-25T16:12:45-05:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "1171004",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/51143/000005114325000015/ibm-20241231.htm",
+        "description": "10-K",
+        "type": "10-K"
+      },
+      {
+        "sequence": "2",
+        "size": "280628",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41.htm",
+        "description": "EX-4.1",
+        "type": "EX-4.1"
+      },
+      {
+        "sequence": "3",
+        "size": "39006",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex101.htm",
+        "description": "EX-10.1",
+        "type": "EX-10.1"
+      },
+      {
+        "sequence": "4",
+        "size": "42536",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex102.htm",
+        "description": "EX-10.2",
+        "type": "EX-10.2"
+      },
+      {
+        "sequence": "5",
+        "size": "4853037",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/51143/000005114325000015/ibm-20241231_d2.htm",
+        "description": "EX-13",
+        "type": "EX-13"
+      },
+      {
+        "sequence": "6",
+        "size": "37073",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex19.htm",
+        "description": "EX-19",
+        "type": "EX-19"
+      },
+      {
+        "sequence": "7",
+        "size": "99305",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex21.htm",
+        "description": "EX-21",
+        "type": "EX-21"
+      },
+      {
+        "sequence": "8",
+        "size": "2961",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex231.htm",
+        "description": "EX-23.1",
+        "type": "EX-23.1"
+      },
+      {
+        "sequence": "9",
+        "size": "42829",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex241.htm",
+        "description": "EX-24.1",
+        "type": "EX-24.1"
+      },
+      {
+        "sequence": "10",
+        "size": "1807",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex242.htm",
+        "description": "EX-24.2",
+        "type": "EX-24.2"
+      },
+      {
+        "sequence": "11",
+        "size": "9907",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex311.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "12",
+        "size": "9925",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex312.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "13",
+        "size": "4986",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex321.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "14",
+        "size": "5002",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex322.htm",
+        "description": "EX-32.2",
+        "type": "EX-32.2"
+      },
+      {
+        "sequence": "20",
+        "size": "32883",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231_g1.jpg",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "21",
+        "size": "169898",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41001.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "22",
+        "size": "213089",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41002.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "23",
+        "size": "302541",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41003.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "24",
+        "size": "194039",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41004.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "25",
+        "size": "180544",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41005.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "26",
+        "size": "172356",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41006.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "27",
+        "size": "198451",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41007.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "28",
+        "size": "214187",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41008.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "29",
+        "size": "75364",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41009.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "30",
+        "size": "204688",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41010.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "31",
+        "size": "238160",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41011.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "32",
+        "size": "267731",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41012.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "33",
+        "size": "265162",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41013.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "34",
+        "size": "35386",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41014.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "35",
+        "size": "157873",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41015.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "36",
+        "size": "190655",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41016.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "37",
+        "size": "203325",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41017.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "38",
+        "size": "163858",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41018.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "39",
+        "size": "178434",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41019.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "40",
+        "size": "266718",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41020.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "41",
+        "size": "229239",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41021.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "42",
+        "size": "264425",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41022.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "43",
+        "size": "289205",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41023.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "44",
+        "size": "231814",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41024.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "45",
+        "size": "263985",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41025.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "46",
+        "size": "87254",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41026.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "47",
+        "size": "200952",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41027.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "48",
+        "size": "164083",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41028.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "49",
+        "size": "256043",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41029.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "50",
+        "size": "156141",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41030.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "51",
+        "size": "230362",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41031.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "52",
+        "size": "235529",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41032.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "53",
+        "size": "232695",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41033.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "54",
+        "size": "238161",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41034.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "55",
+        "size": "267770",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41035.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "56",
+        "size": "151676",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41036.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "57",
+        "size": "265922",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41037.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "58",
+        "size": "226655",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41038.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "59",
+        "size": "262440",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41039.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "60",
+        "size": "192221",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41040.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "61",
+        "size": "156709",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41041.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "62",
+        "size": "264530",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41042.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "63",
+        "size": "152214",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41043.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "64",
+        "size": "242109",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41044.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "65",
+        "size": "156766",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41045.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "66",
+        "size": "262012",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41046.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "67",
+        "size": "166686",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41047.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "68",
+        "size": "217906",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41048.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "69",
+        "size": "245915",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41049.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "70",
+        "size": "229634",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41050.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "71",
+        "size": "235342",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41051.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "72",
+        "size": "175183",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41052.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "73",
+        "size": "280657",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41053.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "74",
+        "size": "290557",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41054.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "75",
+        "size": "207117",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41055.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "76",
+        "size": "259385",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41056.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "77",
+        "size": "196331",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41057.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "78",
+        "size": "207178",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41058.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "79",
+        "size": "261501",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41059.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "80",
+        "size": "193376",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41060.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "81",
+        "size": "207122",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41061.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "82",
+        "size": "258026",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41062.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "83",
+        "size": "275576",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41063.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "84",
+        "size": "253215",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41064.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "85",
+        "size": "248482",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41065.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "86",
+        "size": "261631",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41066.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "87",
+        "size": "171171",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41067.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "88",
+        "size": "198039",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41068.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "89",
+        "size": "255336",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41069.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "90",
+        "size": "104812",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41070.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "91",
+        "size": "233660",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41071.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "92",
+        "size": "263834",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41072.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "93",
+        "size": "189155",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41073.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "94",
+        "size": "191650",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41074.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "95",
+        "size": "100465",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41075.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "96",
+        "size": "265979",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41076.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "97",
+        "size": "303321",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41077.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "98",
+        "size": "215340",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231x10kex41078.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "56578054",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/0000051143-25-000015.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2024-12-31",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "NY",
+        "act": "34",
+        "cik": "51143",
+        "fileNo": "001-02360",
+        "irsNo": "130871985",
+        "companyName": "INTERNATIONAL BUSINESS MACHINES CORP (Filer)",
+        "type": "10-K",
+        "sic": "3570 Computer &amp; office Equipment",
+        "filmNo": "25663330",
+        "undefined": "06 Technology)"
+      }
+    ],
+    "id": "a3ce4626147b6d5033a227d700df584f",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/0000051143-25-000015-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "15",
+        "size": "169941",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "16",
+        "size": "205131",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "17",
+        "size": "1041516",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "18",
+        "size": "1890422",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "19",
+        "size": "1515762",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "284",
+        "size": "7683384",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  },
+  {
+    "ticker": "IBM",
+    "formType": "10-Q",
+    "accessionNo": "0000051143-24-000049",
+    "cik": "51143",
+    "companyNameLong": "INTERNATIONAL BUSINESS MACHINES CORP (Filer)",
+    "companyName": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/ibm-20240930.htm",
+    "description": "Form 10-Q - Quarterly report [Sections 13 or 15(d)]",
+    "linkToTxt": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/0000051143-24-000049.txt",
+    "filedAt": "2024-10-30T16:09:22-04:00",
+    "documentFormatFiles": [
+      {
+        "sequence": "1",
+        "size": "3950673",
+        "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/51143/000005114324000049/ibm-20240930.htm",
+        "description": "10-Q",
+        "type": "10-Q"
+      },
+      {
+        "sequence": "2",
+        "size": "17541",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/form10-q3q24ex101103024.htm",
+        "description": "EX-10.1",
+        "type": "EX-10.1"
+      },
+      {
+        "sequence": "3",
+        "size": "10409",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/form10-q3q24ex311103024.htm",
+        "description": "EX-31.1",
+        "type": "EX-31.1"
+      },
+      {
+        "sequence": "4",
+        "size": "10398",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/form10-q3q24ex312103024.htm",
+        "description": "EX-31.2",
+        "type": "EX-31.2"
+      },
+      {
+        "sequence": "5",
+        "size": "5564",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/form10-q3q24ex321103024.htm",
+        "description": "EX-32.1",
+        "type": "EX-32.1"
+      },
+      {
+        "sequence": "6",
+        "size": "5605",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/form10-q3q24ex322103024.htm",
+        "description": "EX-32.2",
+        "type": "EX-32.2"
+      },
+      {
+        "sequence": "12",
+        "size": "178503",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/form10-q3q24ex101103024001.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "13",
+        "size": "269008",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/form10-q3q24ex101103024002.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "14",
+        "size": "228019",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/form10-q3q24ex101103024003.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "15",
+        "size": "249242",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/form10-q3q24ex101103024004.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "16",
+        "size": "256722",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/form10-q3q24ex101103024005.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "17",
+        "size": "71987",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/form10-q3q24ex101103024006.jpg",
+        "description": "GRAPHIC",
+        "type": "GRAPHIC"
+      },
+      {
+        "sequence": "\u00a0",
+        "size": "20773648",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/0000051143-24-000049.txt",
+        "description": "Complete submission text file",
+        "type": "\u00a0"
+      }
+    ],
+    "periodOfReport": "2024-09-30",
+    "entities": [
+      {
+        "fiscalYearEnd": "1231",
+        "stateOfIncorporation": "NY",
+        "act": "34",
+        "cik": "51143",
+        "fileNo": "001-02360",
+        "irsNo": "130871985",
+        "companyName": "INTERNATIONAL BUSINESS MACHINES CORP (Filer)",
+        "type": "10-Q",
+        "sic": "3570 Computer &amp; office Equipment",
+        "filmNo": "241410373",
+        "undefined": "06 Technology)"
+      }
+    ],
+    "id": "600d8156d8710828d16b7d00dd4a2078",
+    "seriesAndClassesContractsInformation": [],
+    "linkToHtml": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/0000051143-24-000049-index.htm",
+    "linkToXbrl": "",
+    "dataFiles": [
+      {
+        "sequence": "7",
+        "size": "100297",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/ibm-20240930.xsd",
+        "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+        "type": "EX-101.SCH"
+      },
+      {
+        "sequence": "8",
+        "size": "151627",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/ibm-20240930_cal.xml",
+        "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+        "type": "EX-101.CAL"
+      },
+      {
+        "sequence": "9",
+        "size": "596206",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/ibm-20240930_def.xml",
+        "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+        "type": "EX-101.DEF"
+      },
+      {
+        "sequence": "10",
+        "size": "1057184",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/ibm-20240930_lab.xml",
+        "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+        "type": "EX-101.LAB"
+      },
+      {
+        "sequence": "11",
+        "size": "824217",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/ibm-20240930_pre.xml",
+        "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+        "type": "EX-101.PRE"
+      },
+      {
+        "sequence": "130",
+        "size": "4259757",
+        "documentUrl": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000049/ibm-20240930_htm.xml",
+        "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+        "type": "XML"
+      }
+    ]
+  }
+]
