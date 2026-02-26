@@ -1,7 +1,10 @@
-sec-api
-pandas
-numpy
-beautifulsoup4
-lxml
-tqdm
-requests
+torch
+transformers
+datasets
+peft
+bitsandbytes
+accelerate
+trl
+fastapi
+uvicorn
+sentencepiece
