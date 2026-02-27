@@ -10,6 +10,7 @@ from transformers import (
 from peft import LoraConfig, get_peft_model
 import config
 from dataset_loader import load_and_prepare_dataset
+from transformers import BitsAndBytesConfig
 
 
 def tokenize(example, tokenizer):
@@ -34,11 +35,19 @@ def main():
         remove_columns=dataset.column_names
     )
 
+    
+    bnb_config = BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_quant_type="nf4",
+    bnb_4bit_compute_dtype=torch.float16,
+    bnb_4bit_use_double_quant=True
+)
+
     model = AutoModelForCausalLM.from_pretrained(
-        config.MODEL_NAME,
-        torch_dtype=torch.float16,
-        device_map="auto"
-    )
+    config.MODEL_NAME,
+    quantization_config=bnb_config,
+    device_map="auto"
+)
 
     lora_config = LoraConfig(
         r=16,
