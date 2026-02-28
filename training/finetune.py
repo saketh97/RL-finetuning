@@ -1,5 +1,4 @@
 import torch
-from datasets import load_dataset
 from transformers import (
     AutoTokenizer,
     AutoModelForCausalLM,
@@ -23,11 +22,11 @@ def tokenize(example, tokenizer):
 
 
 def main():
-
+    # data loading  -> instruction style finetuning format -> batched tokenization with max_length truncking
     tokenizer = AutoTokenizer.from_pretrained(config.MODEL_NAME)
     tokenizer.pad_token = tokenizer.eos_token
 
-    dataset = load_and_prepare_dataset(tokenizer, max_samples=2000)  # debug run
+    dataset = load_and_prepare_dataset(tokenizer, max_samples=50000)  # debug run
 
     tokenized_dataset = dataset.map(
         lambda x: tokenize(x, tokenizer),
@@ -50,8 +49,8 @@ def main():
 )
 
     lora_config = LoraConfig(
-        r=16,
-        lora_alpha=32,
+        r=8,
+        lora_alpha=16,
         target_modules=["q_proj","k_proj","v_proj","o_proj"],
         lora_dropout=0.05,
         bias="none",
@@ -68,12 +67,12 @@ def main():
 
     training_args = TrainingArguments(
         output_dir=config.OUTPUT_DIR,
-        per_device_train_batch_size=1,
+        per_device_train_batch_size=32,
         gradient_accumulation_steps=4,
-        num_train_epochs=1,
+        num_train_epochs=2,
         learning_rate=2e-4,
         fp16=True,
-        logging_steps=10,
+        logging_steps=20,
         save_strategy="epoch",
         report_to="none"
     )

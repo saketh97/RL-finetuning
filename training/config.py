@@ -1,7 +1,7 @@
 MODEL_NAME = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 OUTPUT_DIR = "../artifacts/finetuned_model"
 
-MAX_SEQ_LENGTH = 1024
+MAX_SEQ_LENGTH = 256
 
 BATCH_SIZE = 1
 GRAD_ACCUM = 4
