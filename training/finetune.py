@@ -74,7 +74,8 @@ def main():
         fp16=True,
         logging_steps=20,
         save_strategy="epoch",
-        report_to="none"
+        report_to="none",
+        dataloader_num_workers=4
     )
 
     trainer = Trainer(
