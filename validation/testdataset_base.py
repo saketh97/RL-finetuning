@@ -53,7 +53,7 @@ def run_task(*, item,**kwargs):
 
 result = dataset.run_experiment(
     name="base_model_validation",
-    descrption="evaluating the base tiny llama model",
+    description="evaluating the base tiny llama model",
     task=run_task
 )
 
