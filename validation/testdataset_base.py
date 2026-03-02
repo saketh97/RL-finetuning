@@ -29,7 +29,7 @@ model = AutoModelForCausalLM.from_pretrained(
     device_map="auto"
 )
 
-def run_model(prompt, max_new_tokens=32, temperature=0.0):
+def run_model(prompt, max_new_tokens=32, temperature=0.5):
     inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
 
     with torch.no_grad():
@@ -42,6 +42,7 @@ def run_model(prompt, max_new_tokens=32, temperature=0.0):
         )
 
     decoded = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    get_client().update_current_trace(input=prompt,output=decoded)
     return decoded
 
 dataset=langfuse.get_dataset("flare-cfa")
