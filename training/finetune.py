@@ -25,8 +25,8 @@ def main():
     # data loading  -> instruction style finetuning format -> batched tokenization with max_length truncking
     tokenizer = AutoTokenizer.from_pretrained(config.MODEL_NAME)
     tokenizer.pad_token = tokenizer.eos_token
-
-    dataset = load_and_prepare_dataset(tokenizer, max_samples=50000)  # debug run
+    train_data =config.train_dataset
+    dataset = load_and_prepare_dataset(train_data,split="train",max_samples=50000)  # debug run
 
     tokenized_dataset = dataset.map(
         lambda x: tokenize(x, tokenizer),

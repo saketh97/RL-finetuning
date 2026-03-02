@@ -1,11 +1,11 @@
 from datasets import load_dataset
 
 
-def load_and_prepare_dataset(tokenizer, max_samples=None):
+def load_and_prepare_dataset(train_data,split, max_samples=None):
 
     dataset = load_dataset(
-        "FinLang/investopedia-instruction-tuning-dataset",
-        split="train"
+       train_data,
+        split=split
     )
 
     if max_samples:

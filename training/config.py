@@ -1,13 +1,7 @@
 MODEL_NAME = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 OUTPUT_DIR = "../artifacts/finetuned_model"
-
+train_dataset = "FinLang/investopedia-instruction-tuning-dataset"
+test_dataset1="TheFinAI/flare-cfa"
+test_dataset2="FinLang/investopedia-embedding-dataset"
 MAX_SEQ_LENGTH = 256
 
-BATCH_SIZE = 1
-GRAD_ACCUM = 4
-EPOCHS = 1
-LR = 2e-4
-
-LORA_R = 16
-LORA_ALPHA = 32
-LORA_DROPOUT = 0.05
